@@ -1,0 +1,5637 @@
+{
+  "content": [
+    {
+      "id": 116,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "8",
+      "memberName": "Ashutosh Brokerage & Securities (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4220276",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 11,
+          "districtName": "Sunsari\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 103,
+          "municipalityName": "Itahari",
+          "status": "A",
+          "districtId": 11
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms08.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 107,
+          "branchName": "Itahari",
+          "branchLocation": "Itahari",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 103,
+            "municipalityName": "Itahari",
+            "status": "A",
+            "districtId": 11
+          },
+          "district": {
+            "id": 11,
+            "districtName": "Sunsari\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 106,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "7",
+      "memberName": "J.F. Securites (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4442912",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms07.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 19,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 20,
+          "branchName": "Butwal",
+          "branchLocation": "Traffic Chowk",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "6",
+      "memberName": "Agrawal Securities (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4424657",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        },
+        {
+          "id": 2,
+          "name": "Province_2",
+          "description": "Province 2",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 6,
+          "districtName": "Morang\r\n",
+          "status": "A",
+          "provinceId": 1
+        },
+        {
+          "id": 16,
+          "districtName": "Dhanusha",
+          "status": "A",
+          "provinceId": 2
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 52,
+          "municipalityName": "Biratnagar",
+          "status": "A",
+          "districtId": 6
+        },
+        {
+          "id": 153,
+          "municipalityName": "Janakpur",
+          "status": "A",
+          "districtId": 16
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms06.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 18,
+          "branchName": "Janakpur",
+          "branchLocation": "Janakpur",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 153,
+            "municipalityName": "Janakpur",
+            "status": "A",
+            "districtId": 16
+          },
+          "district": {
+            "id": 16,
+            "districtName": "Dhanusha",
+            "status": "A",
+            "provinceId": 2
+          },
+          "province": {
+            "id": 2,
+            "name": "Province_2",
+            "description": "Province 2",
+            "status": "A"
+          }
+        },
+        {
+          "id": 17,
+          "branchName": "Biratnagar",
+          "branchLocation": "Rangeli Road",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 52,
+            "municipalityName": "Biratnagar",
+            "status": "A",
+            "districtId": 6
+          },
+          "district": {
+            "id": 6,
+            "districtName": "Morang\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 16,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "59",
+      "memberName": "Deevyaa Securities & Stock House Pvt. Ltd",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Ram Prasad Acharya",
+      "authorizedContactPersonNumber": "01-4421488",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms59.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 96,
+          "branchName": "Baglung",
+          "branchLocation": "Baglung bajaar",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        },
+        {
+          "id": 95,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "58",
+      "memberName": "Naasa Securities Co. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Rajiv Lacoul",
+      "authorizedContactPersonNumber": "01-4440384",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 2,
+          "name": "Province_2",
+          "description": "Province 2",
+          "status": "A"
+        },
+        {
+          "id": 2,
+          "name": "Province_2",
+          "description": "Province 2",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 18,
+          "districtName": "Parsa\r\n",
+          "status": "A",
+          "provinceId": 2
+        },
+        {
+          "id": 16,
+          "districtName": "Dhanusha",
+          "status": "A",
+          "provinceId": 2
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 185,
+          "municipalityName": "Birgunj",
+          "status": "A",
+          "districtId": 18
+        },
+        {
+          "id": 153,
+          "municipalityName": "Janakpur",
+          "status": "A",
+          "districtId": 16
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms58.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 93,
+          "branchName": "Birgunj",
+          "branchLocation": "birgunj",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 185,
+            "municipalityName": "Birgunj",
+            "status": "A",
+            "districtId": 18
+          },
+          "district": {
+            "id": 18,
+            "districtName": "Parsa\r\n",
+            "status": "A",
+            "provinceId": 2
+          },
+          "province": {
+            "id": 2,
+            "name": "Province_2",
+            "description": "Province 2",
+            "status": "A"
+          }
+        },
+        {
+          "id": 92,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 94,
+          "branchName": "Janakpur",
+          "branchLocation": "Janakpur",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 153,
+            "municipalityName": "Janakpur",
+            "status": "A",
+            "districtId": 16
+          },
+          "district": {
+            "id": 16,
+            "districtName": "Dhanusha",
+            "status": "A",
+            "provinceId": 2
+          },
+          "province": {
+            "id": 2,
+            "name": "Province_2",
+            "description": "Province 2",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "57",
+      "memberName": "Aryatara Investment & Securities",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Gunnidhi Bhusal",
+      "authorizedContactPersonNumber": "4233596",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        },
+        {
+          "id": 50,
+          "districtName": "Dang\r\n",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        },
+        {
+          "id": 491,
+          "municipalityName": "Tulsipur",
+          "status": "A",
+          "districtId": 50
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms57.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 90,
+          "branchName": "Butwal",
+          "branchLocation": "Butawal",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 91,
+          "branchName": "Dang",
+          "branchLocation": "Dang",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 491,
+            "municipalityName": "Tulsipur",
+            "status": "A",
+            "districtId": 50
+          },
+          "district": {
+            "id": 50,
+            "districtName": "Dang\r\n",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 89,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "56",
+      "memberName": "Sri Hari Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4437562",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 4,
+          "districtName": "Jhapa\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 34,
+          "municipalityName": "Birtamod",
+          "status": "A",
+          "districtId": 4
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms56.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 87,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 88,
+          "branchName": "Birtamod",
+          "branchLocation": "Triveni Chowk-5",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 34,
+            "municipalityName": "Birtamod",
+            "status": "A",
+            "districtId": 4
+          },
+          "district": {
+            "id": 4,
+            "districtName": "Jhapa\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "55",
+      "memberName": "Bhrikuti Stock Broking Co. Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4223466",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 11,
+          "districtName": "Sunsari\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 103,
+          "municipalityName": "Itahari",
+          "status": "A",
+          "districtId": 11
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms55.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 86,
+          "branchName": "Itahari",
+          "branchLocation": "Kasturi Chwok , National Galli",
+          "branchHead": "Dhiraj Rai Chamling",
+          "activeStatus": "A",
+          "phoneNumber": "025-583671",
+          "municipality": {
+            "id": 103,
+            "municipalityName": "Itahari",
+            "status": "A",
+            "districtId": 11
+          },
+          "district": {
+            "id": 11,
+            "districtName": "Sunsari\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 85,
+          "branchName": "Kathmandu",
+          "branchLocation": "Newroad, Opposite to Bhugol Park, Kathmandu",
+          "branchHead": "",
+          "activeStatus": "A",
+          "phoneNumber": "01-4223466",
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "54",
+      "memberName": "Sewa Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4256642",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 30,
+          "districtName": "Makwanpur\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 328,
+          "municipalityName": "Hetauda",
+          "status": "A",
+          "districtId": 30
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms54.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 83,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 84,
+          "branchName": "Hetauda",
+          "branchLocation": "Hetauda",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 328,
+            "municipalityName": "Hetauda",
+            "status": "A",
+            "districtId": 30
+          },
+          "district": {
+            "id": 30,
+            "districtName": "Makwanpur\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "53",
+      "memberName": "Investment Management Nepal Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4256589",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms53.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 81,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu  ",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 82,
+          "branchName": "Pokhara",
+          "branchLocation": "New Road, Pokhara",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "52",
+      "memberName": "Sundhara Securities Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Fanindra Dhakal",
+      "authorizedContactPersonNumber": "01-4212215, 4260174",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 39,
+          "districtName": "Lamjung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 410,
+          "municipalityName": "Beshi Sahar",
+          "status": "A",
+          "districtId": 39
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms52.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 79,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 80,
+          "branchName": "Lamjung",
+          "branchLocation": "besisahar",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 410,
+            "municipalityName": "Beshi Sahar",
+            "status": "A",
+            "districtId": 39
+          },
+          "district": {
+            "id": 39,
+            "districtName": "Lamjung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "51",
+      "memberName": "Oxford Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "9841382573",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 24,
+          "districtName": "Chitwan\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 269,
+          "municipalityName": "Bharatpur",
+          "status": "A",
+          "districtId": 24
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms51.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 77,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 78,
+          "branchName": "Narayanghat",
+          "branchLocation": "narayanghat",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 269,
+            "municipalityName": "Bharatpur",
+            "status": "A",
+            "districtId": 24
+          },
+          "district": {
+            "id": 24,
+            "districtName": "Chitwan\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "50",
+      "memberName": "Cristal Kanchanjanga Securites Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Priya Raj Regmi",
+      "authorizedContactPersonNumber": "9851026960",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 6,
+          "districtName": "Morang\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 52,
+          "municipalityName": "Biratnagar",
+          "status": "A",
+          "districtId": 6
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms50.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 75,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 76,
+          "branchName": "Biratnagar",
+          "branchLocation": "Biratnagar",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 52,
+            "municipalityName": "Biratnagar",
+            "status": "A",
+            "districtId": 6
+          },
+          "district": {
+            "id": 6,
+            "districtName": "Morang\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "5",
+      "memberName": "Market Securities & Exchange (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4248973",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms05.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 15,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "49",
+      "memberName": "Online Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Dinesh Sharma Bidari",
+      "authorizedContactPersonNumber": "014168298",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 11,
+          "districtName": "Sunsari\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 104,
+          "municipalityName": "Dharan",
+          "status": "A",
+          "districtId": 11
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms49.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 73,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 74,
+          "branchName": "Dharan",
+          "branchLocation": "Dharan",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 104,
+            "municipalityName": "Dharan",
+            "status": "A",
+            "districtId": 11
+          },
+          "district": {
+            "id": 11,
+            "districtName": "Sunsari\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "48",
+      "memberName": "Trishakti Securities Public Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Tinka Prasad Gautam",
+      "authorizedContactPersonNumber": "4232132",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms48.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 72,
+          "branchName": "Pokhara",
+          "branchLocation": "abc",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        },
+        {
+          "id": 71,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "47",
+      "memberName": "Neev Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Baivab Sharma",
+      "authorizedContactPersonNumber": "4470464",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 11,
+          "districtName": "Sunsari\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 103,
+          "municipalityName": "Itahari",
+          "status": "A",
+          "districtId": 11
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms47.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 70,
+          "branchName": "Itahari",
+          "branchLocation": "Biratnagarline, Itahari-6",
+          "branchHead": "Yogendra Poudel",
+          "activeStatus": "A",
+          "phoneNumber": "025-587408",
+          "municipality": {
+            "id": 103,
+            "municipalityName": "Itahari",
+            "status": "A",
+            "districtId": 11
+          },
+          "district": {
+            "id": 11,
+            "districtName": "Sunsari\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 69,
+          "branchName": "Kathmandu",
+          "branchLocation": "Putalisadak, Kathmandu",
+          "branchHead": "Baivab Sharma",
+          "activeStatus": "A",
+          "phoneNumber": "01-4168601",
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "46",
+      "memberName": "Kalika Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Narendra Raj Sijapati",
+      "authorizedContactPersonNumber": "4430601",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 48,
+          "districtName": "Banke\r\n",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 475,
+          "municipalityName": "Nepalgunj",
+          "status": "A",
+          "districtId": 48
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms46.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 68,
+          "branchName": "Nepalgunj",
+          "branchLocation": "New Road, Nepaligunj",
+          "branchHead": "MADHAV BASNET",
+          "activeStatus": "A",
+          "phoneNumber": "9848297408",
+          "municipality": {
+            "id": 475,
+            "municipalityName": "Nepalgunj",
+            "status": "A",
+            "districtId": 48
+          },
+          "district": {
+            "id": 48,
+            "districtName": "Banke\r\n",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 67,
+          "branchName": "Kathmandu",
+          "branchLocation": "Hunamanthan, Anamnagar, Kathmandu",
+          "branchHead": "Madhav Basnet",
+          "activeStatus": "A",
+          "phoneNumber": "01-5705563, 5705564",
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "45",
+      "memberName": "Imperial Securities Company Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Bhakti Ram Ghimire",
+      "authorizedContactPersonNumber": "4231004",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        },
+        {
+          "id": 6,
+          "name": "Province_6",
+          "description": "Province 6",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 48,
+          "districtName": "Banke\r\n",
+          "status": "A",
+          "provinceId": 5
+        },
+        {
+          "id": 68,
+          "districtName": "Surkhet\r\n",
+          "status": "A",
+          "provinceId": 6
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 475,
+          "municipalityName": "Nepalgunj",
+          "status": "A",
+          "districtId": 48
+        },
+        {
+          "id": 648,
+          "municipalityName": "Birendra",
+          "status": "A",
+          "districtId": 68
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms45.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 64,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 65,
+          "branchName": "Nepalgunj",
+          "branchLocation": "Nepalgunj",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 475,
+            "municipalityName": "Nepalgunj",
+            "status": "A",
+            "districtId": 48
+          },
+          "district": {
+            "id": 48,
+            "districtName": "Banke\r\n",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 66,
+          "branchName": "Surkhet Branch",
+          "branchLocation": "Surkhet",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 648,
+            "municipalityName": "Birendra",
+            "status": "A",
+            "districtId": 68
+          },
+          "district": {
+            "id": 68,
+            "districtName": "Surkhet\r\n",
+            "status": "A",
+            "provinceId": 6
+          },
+          "province": {
+            "id": 6,
+            "name": "Province_6",
+            "description": "Province 6",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "44",
+      "memberName": "Dynamic Money Managers Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Madhu Joshi",
+      "authorizedContactPersonNumber": "4414522",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 27,
+          "districtName": "Kavrepalanchowk",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 299,
+          "municipalityName": "Banepa",
+          "status": "A",
+          "districtId": 27
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms44.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 62,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 63,
+          "branchName": "Banepa",
+          "branchLocation": "banepa",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 299,
+            "municipalityName": "Banepa",
+            "status": "A",
+            "districtId": 27
+          },
+          "district": {
+            "id": 27,
+            "districtName": "Kavrepalanchowk",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "43",
+      "memberName": "South Asian Bulls Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Prakesh Kumar Aggrawal",
+      "authorizedContactPersonNumber": "4284785",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 4,
+          "districtName": "Jhapa\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 34,
+          "municipalityName": "Birtamod",
+          "status": "A",
+          "districtId": 4
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms43.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 60,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 61,
+          "branchName": "Birtamod",
+          "branchLocation": "birtamode",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 34,
+            "municipalityName": "Birtamod",
+            "status": "A",
+            "districtId": 4
+          },
+          "district": {
+            "id": 4,
+            "districtName": "Jhapa\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "42",
+      "memberName": "Sani Securities Company Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Santosh Paudel",
+      "authorizedContactPersonNumber": "4401006",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 24,
+          "districtName": "Chitwan\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 269,
+          "municipalityName": "Bharatpur",
+          "status": "A",
+          "districtId": 24
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms42.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 58,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 59,
+          "branchName": "Narayanghat",
+          "branchLocation": "Narayanghat",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 269,
+            "municipalityName": "Bharatpur",
+            "status": "A",
+            "districtId": 24
+          },
+          "district": {
+            "id": 24,
+            "districtName": "Chitwan\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "41",
+      "memberName": "Linch Stock Market Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Sarita Adhikari",
+      "authorizedContactPersonNumber": "4784567",
+      "provinceList": [
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 6,
+          "districtName": "Morang\r\n",
+          "status": "A",
+          "provinceId": 1
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 52,
+          "municipalityName": "Biratnagar",
+          "status": "A",
+          "districtId": 6
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms41.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 57,
+          "branchName": "Butwal",
+          "branchLocation": "Butawal",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 56,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 52,
+            "municipalityName": "Biratnagar",
+            "status": "A",
+            "districtId": 6
+          },
+          "district": {
+            "id": 6,
+            "districtName": "Morang\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "40",
+      "memberName": "Creative Securities Pvt Ltd",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Raman Dev Pant",
+      "authorizedContactPersonNumber": "4168205",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 27,
+          "districtName": "Kavrepalanchowk",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 299,
+          "municipalityName": "Banepa",
+          "status": "A",
+          "districtId": 27
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms40.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 54,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 55,
+          "branchName": "Banepa",
+          "branchLocation": "Banepa",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 299,
+            "municipalityName": "Banepa",
+            "status": "A",
+            "districtId": 27
+          },
+          "district": {
+            "id": 27,
+            "districtName": "Kavrepalanchowk",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "4",
+      "memberName": "Opal Securities Investment (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4239273",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms04.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 14,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "39",
+      "memberName": "Sumeru Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Jeevan Prasai",
+      "authorizedContactPersonNumber": "4444740",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 4,
+          "districtName": "Jhapa\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 34,
+          "municipalityName": "Birtamod",
+          "status": "A",
+          "districtId": 4
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms39.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 53,
+          "branchName": "Birtamod",
+          "branchLocation": "BIrtamod",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 34,
+            "municipalityName": "Birtamod",
+            "status": "A",
+            "districtId": 4
+          },
+          "district": {
+            "id": 4,
+            "districtName": "Jhapa\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 52,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "38",
+      "memberName": "Dipshikha Dhitopatra Karobar Co. Pvt Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Dipak Raj Oli",
+      "authorizedContactPersonNumber": "4102532",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 7,
+          "name": "Province_7",
+          "description": "Province 7",
+          "status": "A"
+        },
+        {
+          "id": 7,
+          "name": "Province_7",
+          "description": "Province 7",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 76,
+          "districtName": "Kailali\r\n",
+          "status": "A",
+          "provinceId": 7
+        },
+        {
+          "id": 77,
+          "districtName": "Kanchanpur\r\n",
+          "status": "A",
+          "provinceId": 7
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 723,
+          "municipalityName": "Dhangadhi",
+          "status": "A",
+          "districtId": 76
+        },
+        {
+          "id": 736,
+          "municipalityName": "bhimdatta",
+          "status": "A",
+          "districtId": 77
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms38.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 51,
+          "branchName": "Mahendranagar",
+          "branchLocation": "Galli no 3, Mahendranagar",
+          "branchHead": "Bisal Rijal",
+          "activeStatus": "A",
+          "phoneNumber": "9851162063",
+          "municipality": {
+            "id": 736,
+            "municipalityName": "bhimdatta",
+            "status": "A",
+            "districtId": 77
+          },
+          "district": {
+            "id": 77,
+            "districtName": "Kanchanpur\r\n",
+            "status": "A",
+            "provinceId": 7
+          },
+          "province": {
+            "id": 7,
+            "name": "Province_7",
+            "description": "Province 7",
+            "status": "A"
+          }
+        },
+        {
+          "id": 50,
+          "branchName": "Dhangadhi",
+          "branchLocation": "Yug plaza 2nd floor, Chauraha",
+          "branchHead": "Nirmal Pathak",
+          "activeStatus": "A",
+          "phoneNumber": "9858425400",
+          "municipality": {
+            "id": 723,
+            "municipalityName": "Dhangadhi",
+            "status": "A",
+            "districtId": 76
+          },
+          "district": {
+            "id": 76,
+            "districtName": "Kailali\r\n",
+            "status": "A",
+            "provinceId": 7
+          },
+          "province": {
+            "id": 7,
+            "name": "Province_7",
+            "description": "Province 7",
+            "status": "A"
+          }
+        },
+        {
+          "id": 49,
+          "branchName": "Kathmandu",
+          "branchLocation": "Ranabhat Complex,Anamnagar, Kathmandu",
+          "branchHead": "Dipak Raj Oli",
+          "activeStatus": "A",
+          "phoneNumber": "01-4102532",
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "37",
+      "memberName": "Swarna Laxmi Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Dharm Raj Sapkota",
+      "authorizedContactPersonNumber": "430534",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 30,
+          "districtName": "Makwanpur\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 328,
+          "municipalityName": "Hetauda",
+          "status": "A",
+          "districtId": 30
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms37.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 47,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 48,
+          "branchName": "Hetauda",
+          "branchLocation": "Hetaunda",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 328,
+            "municipalityName": "Hetauda",
+            "status": "A",
+            "districtId": 30
+          },
+          "district": {
+            "id": 30,
+            "districtName": "Makwanpur\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "36",
+      "memberName": "Secured Securities Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Santosh Mainali",
+      "authorizedContactPersonNumber": "4168172",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 4,
+          "districtName": "Jhapa\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 34,
+          "municipalityName": "Birtamod",
+          "status": "A",
+          "districtId": 4
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms36.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 45,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 46,
+          "branchName": "Birtamod",
+          "branchLocation": "Birtamod",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 34,
+            "municipalityName": "Birtamod",
+            "status": "A",
+            "districtId": 4
+          },
+          "district": {
+            "id": 4,
+            "districtName": "Jhapa\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "35",
+      "memberName": "Kohinoor Investment & Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4442858",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms35.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 43,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 44,
+          "branchName": "Pokhara",
+          "branchLocation": "Pokhara",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "34",
+      "memberName": "Vision Securities Pvt. Ltd",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Raj Kumar Timilsina",
+      "authorizedContactPersonNumber": "4770452",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 27,
+          "districtName": "Kavrepalanchowk",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        },
+        {
+          "id": 43,
+          "districtName": "Nawalparasi (State 4)",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 299,
+          "municipalityName": "Banepa",
+          "status": "A",
+          "districtId": 27
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        },
+        {
+          "id": 433,
+          "municipalityName": "Kawasoti",
+          "status": "A",
+          "districtId": 43
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms34.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 42,
+          "branchName": "Bhairahawa",
+          "branchLocation": "Buddha Chowk, Narayanpath, Bhairahawa",
+          "branchHead": "Gayatri Aryal",
+          "activeStatus": "A",
+          "phoneNumber": "071-522324",
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 41,
+          "branchName": "Banepa",
+          "branchLocation": "Chardobato chowk, Banepa",
+          "branchHead": "Nisha Bhattarai",
+          "activeStatus": "A",
+          "phoneNumber": "011-662802, 663304",
+          "municipality": {
+            "id": 299,
+            "municipalityName": "Banepa",
+            "status": "A",
+            "districtId": 27
+          },
+          "district": {
+            "id": 27,
+            "districtName": "Kavrepalanchowk",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 40,
+          "branchName": "Kathmandu",
+          "branchLocation": "Anamnagar, Kathmandu",
+          "branchHead": "Raj Kumar Timilsina",
+          "activeStatus": "A",
+          "phoneNumber": "01-4770408, 4770425",
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 114,
+          "branchName": "Nawalparasi",
+          "branchLocation": "Kawasoti",
+          "branchHead": "Raj Kumar Timilsina",
+          "activeStatus": "A",
+          "phoneNumber": "14770408",
+          "municipality": {
+            "id": 433,
+            "municipalityName": "Kawasoti",
+            "status": "A",
+            "districtId": 43
+          },
+          "district": {
+            "id": 43,
+            "districtName": "Nawalparasi (State 4)",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "33",
+      "memberName": "Dakshinkali Investment & Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Dinesh Raj Sapkota",
+      "authorizedContactPersonNumber": "4168640",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms33.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 38,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 39,
+          "branchName": "Butwal",
+          "branchLocation": "Butawal",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "32",
+      "memberName": "Premier Securities Company Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4432700",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms32.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 36,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 37,
+          "branchName": "Pokhara",
+          "branchLocation": "New Road",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "3",
+      "memberName": "Arun Securities (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "016916470",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms03.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 13,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "29",
+      "memberName": "Trisul Securities & Invt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4440709",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 24,
+          "districtName": "Chitwan\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 269,
+          "municipalityName": "Bharatpur",
+          "status": "A",
+          "districtId": 24
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms29.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 34,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 35,
+          "branchName": "Narayanghat",
+          "branchLocation": "Milan Road",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 269,
+            "municipalityName": "Bharatpur",
+            "status": "A",
+            "districtId": 24
+          },
+          "district": {
+            "id": 24,
+            "districtName": "Chitwan\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "28",
+      "memberName": "Shree Krishna Securities Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4224262",
+      "provinceList": [],
+      "districtList": [],
+      "municipalities": [],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms28.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": []
+    },
+    {
+      "id": 129,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "26",
+      "memberName": "Asian Securities Private Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4240609",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms26.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 33,
+          "branchName": "Butwal",
+          "branchLocation": "butwal",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        },
+        {
+          "id": 32,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "25",
+      "memberName": "Sweta Securities Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4444791",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms25.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 31,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "22",
+      "memberName": "Siprabi Securities Pvt. Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "5530701",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 2,
+          "name": "Province_2",
+          "description": "Province 2",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 18,
+          "districtName": "Parsa\r\n",
+          "status": "A",
+          "provinceId": 2
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 185,
+          "municipalityName": "Birgunj",
+          "status": "A",
+          "districtId": 18
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms22.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 29,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 30,
+          "branchName": "Birgunj",
+          "branchLocation": "Resham Kothi-6",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 185,
+            "municipalityName": "Birgunj",
+            "status": "A",
+            "districtId": 18
+          },
+          "district": {
+            "id": 18,
+            "districtName": "Parsa\r\n",
+            "status": "A",
+            "provinceId": 2
+          },
+          "province": {
+            "id": 2,
+            "name": "Province_2",
+            "description": "Province 2",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "21",
+      "memberName": "Midas Stock Broking Company Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4240089",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 5,
+          "name": "Province_5",
+          "description": "Province 5",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 58,
+          "districtName": "Rupandehi",
+          "status": "A",
+          "provinceId": 5
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 562,
+          "municipalityName": "Butwal",
+          "status": "A",
+          "districtId": 58
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms21.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 27,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 28,
+          "branchName": "Butwal",
+          "branchLocation": "butwal",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 562,
+            "municipalityName": "Butwal",
+            "status": "A",
+            "districtId": 58
+          },
+          "district": {
+            "id": 58,
+            "districtName": "Rupandehi",
+            "status": "A",
+            "provinceId": 5
+          },
+          "province": {
+            "id": 5,
+            "name": "Province_5",
+            "description": "Province 5",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "20",
+      "memberName": "Sipla Securities Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4255782",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms20.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 26,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "19",
+      "memberName": "Nepal Investment And Securities Trading Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4495450",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 6,
+          "districtName": "Morang\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 52,
+          "municipalityName": "Biratnagar",
+          "status": "A",
+          "districtId": 6
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms19.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 24,
+          "branchName": "Kathmandu",
+          "branchLocation": "Bhimsengola, Kathmandu",
+          "branchHead": "Govinda Neupane",
+          "activeStatus": "A",
+          "phoneNumber": "01-4495450, 4480072",
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 25,
+          "branchName": "Biratnagar",
+          "branchLocation": "BIRATNAGAR-7, HANUMAN DAS ROAD",
+          "branchHead": "BIBEK POUDEL",
+          "activeStatus": "A",
+          "phoneNumber": "21590216",
+          "municipality": {
+            "id": 52,
+            "municipalityName": "Biratnagar",
+            "status": "A",
+            "districtId": 6
+          },
+          "district": {
+            "id": 6,
+            "districtName": "Morang\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "18",
+      "memberName": "Sagarmatha Securities Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4433221",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms18.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 23,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "17",
+      "memberName": "ABC Securities Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4230787",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 11,
+          "districtName": "Sunsari\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 104,
+          "municipalityName": "Dharan",
+          "status": "A",
+          "districtId": 11
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms17.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 22,
+          "branchName": "Dharan",
+          "branchLocation": "Dharan",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 104,
+            "municipalityName": "Dharan",
+            "status": "A",
+            "districtId": 11
+          },
+          "district": {
+            "id": 11,
+            "districtName": "Sunsari\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 21,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "16",
+      "memberName": "Primo Securities (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": "Megh Nath Upadhya",
+      "authorizedContactPersonNumber": "4168214",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 2,
+          "name": "Province_2",
+          "description": "Province 2",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 18,
+          "districtName": "Parsa\r\n",
+          "status": "A",
+          "provinceId": 2
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 185,
+          "municipalityName": "Birgunj",
+          "status": "A",
+          "districtId": 18
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms16.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 105,
+          "branchName": "Birgunj",
+          "branchLocation": "Birgunj",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 185,
+            "municipalityName": "Birgunj",
+            "status": "A",
+            "districtId": 18
+          },
+          "district": {
+            "id": 18,
+            "districtName": "Parsa\r\n",
+            "status": "A",
+            "provinceId": 2
+          },
+          "province": {
+            "id": 2,
+            "name": "Province_2",
+            "description": "Province 2",
+            "status": "A"
+          }
+        },
+        {
+          "id": 104,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "14",
+      "memberName": "Nepal Stock House (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4265888",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms14.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 102,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        },
+        {
+          "id": 103,
+          "branchName": "Pokhara",
+          "branchLocation": "Chipledhunga",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "13",
+      "memberName": "Thrive Brokerage House Pvt. Ltd",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4419051",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms13.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 101,
+          "branchName": "Pokhara",
+          "branchLocation": "Garaon Patan",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        },
+        {
+          "id": 100,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "11",
+      "memberName": "Malla & Malla Stock Broking Company Pvt. Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4432088",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms11.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 99,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "10",
+      "memberName": "Pragyan Securities (PVT) Ltd.",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "016226890",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 1,
+          "name": "Province_1",
+          "description": "Province 1",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 6,
+          "districtName": "Morang\r\n",
+          "status": "A",
+          "provinceId": 1
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 52,
+          "municipalityName": "Biratnagar",
+          "status": "A",
+          "districtId": 6
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms10.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 98,
+          "branchName": "Biratnagar",
+          "branchLocation": "Rangeli Road",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 52,
+            "municipalityName": "Biratnagar",
+            "status": "A",
+            "districtId": 6
+          },
+          "district": {
+            "id": 6,
+            "districtName": "Morang\r\n",
+            "status": "A",
+            "provinceId": 1
+          },
+          "province": {
+            "id": 1,
+            "name": "Province_1",
+            "description": "Province 1",
+            "status": "A"
+          }
+        },
+        {
+          "id": 97,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "activeStatus": "A",
+      "clearingMemberId": null,
+      "memberCode": "1",
+      "memberName": "Kumari Securities Private Limited",
+      "membershipTypeMaster": {
+        "id": 3,
+        "membershipType": "Trading Cum Clearing Member",
+        "hibernateLazyInitializer": {}
+      },
+      "authorizedContactPerson": null,
+      "authorizedContactPersonNumber": "4423689",
+      "provinceList": [
+        {
+          "id": 3,
+          "name": "Province_3",
+          "description": "Province 3",
+          "status": "A"
+        },
+        {
+          "id": 4,
+          "name": "Province_4",
+          "description": "Province 4",
+          "status": "A"
+        }
+      ],
+      "districtList": [
+        {
+          "id": 28,
+          "districtName": "Kathmandu\r\n",
+          "status": "A",
+          "provinceId": 3
+        },
+        {
+          "id": 36,
+          "districtName": "Baglung\r\n",
+          "status": "A",
+          "provinceId": 4
+        }
+      ],
+      "municipalities": [
+        {
+          "id": 311,
+          "municipalityName": "Kathmandu",
+          "status": "A",
+          "districtId": 28
+        },
+        {
+          "id": 384,
+          "municipalityName": "Baglung",
+          "status": "A",
+          "districtId": 36
+        }
+      ],
+      "memberTMSLinkMapping": {
+        "tmsLink": "tms01.nepsetms.com.np"
+      },
+      "isDealer": "N",
+      "memberBranchMappings": [
+        {
+          "id": 12,
+          "branchName": "Pokhara",
+          "branchLocation": "New Road",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 384,
+            "municipalityName": "Baglung",
+            "status": "A",
+            "districtId": 36
+          },
+          "district": {
+            "id": 36,
+            "districtName": "Baglung\r\n",
+            "status": "A",
+            "provinceId": 4
+          },
+          "province": {
+            "id": 4,
+            "name": "Province_4",
+            "description": "Province 4",
+            "status": "A"
+          }
+        },
+        {
+          "id": 11,
+          "branchName": "Kathmandu",
+          "branchLocation": "Kathmandu",
+          "branchHead": null,
+          "activeStatus": "A",
+          "phoneNumber": null,
+          "municipality": {
+            "id": 311,
+            "municipalityName": "Kathmandu",
+            "status": "A",
+            "districtId": 28
+          },
+          "district": {
+            "id": 28,
+            "districtName": "Kathmandu\r\n",
+            "status": "A",
+            "provinceId": 3
+          },
+          "province": {
+            "id": 3,
+            "name": "Province_3",
+            "description": "Province 3",
+            "status": "A"
+          }
+        }
+      ]
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "pageSize": 50,
+    "pageNumber": 0,
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalPages": 1,
+  "totalElements": 50,
+  "last": true,
+  "number": 0,
+  "size": 50,
+  "numberOfElements": 50,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "first": true,
+  "empty": false
+}

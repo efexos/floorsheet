@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "sec-ch-ua": "",
+    "Accept": "application/json, text/plain, */*",
+    "sec-ch-ua-mobile": "?0",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/91.0.4472.114 Safari/537.36",
+    "Content-Type": "application/json",
+    "Origin": "https://newweb.nepalstock.com",
+    "Referer": "https://newweb.nepalstock.com/floor-sheet"
+  },
+  "uselessCode": 791
+}

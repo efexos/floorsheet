@@ -1,0 +1,54 @@
+{
+  "name": "floorsheet",
+  "description": "Visualize NepalStock daily/historic floorsheets in terminal or cmd.",
+  "version": "1.0.0",
+  "author": "efexos",
+  "bin": {
+    "floorsheet": "./bin/run"
+  },
+  "bugs": "https://github.com/efexos/floorsheet/issues",
+  "devDependencies": {
+    "@oclif/dev-cli": "^1.26.0",
+    "globby": "^10.0.2",
+    "rimraf": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/npm-shrinkwrap.json",
+    "/oclif.manifest.json",
+    "/src"
+  ],
+  "homepage": "https://github.com/efexos/floorsheet",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "oclif": {
+    "commands": "./src/commands",
+    "bin": "floorsheet",
+    "plugins": [
+      "@oclif/plugin-help"
+    ]
+  },
+  "repository": "efexos/floorsheet",
+  "scripts": {
+    "postpack": "rimraf oclif.manifest.json",
+    "prepack": "oclif-dev manifest && oclif-dev readme",
+    "test": "echo NO TESTS",
+    "version": "oclif-dev readme && git add README.md"
+  },
+  "dependencies": {
+    "@oclif/command": "^1.8.0",
+    "@oclif/config": "^1.17.0",
+    "@oclif/plugin-help": "^3.2.2",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.10.0",
+    "chrome-launcher": "^0.14.0",
+    "chrome-remote-interface": "^0.31.0",
+    "node-fetch": "^2.6.1"
+  }
+}

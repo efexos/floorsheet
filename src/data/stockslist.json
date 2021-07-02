@@ -1,0 +1,4762 @@
+[
+  {
+    "id": 2790,
+    "symbol": "ACLBSL",
+    "securityName": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+    "name": "(ACLBSL) Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2791,
+    "symbol": "ACLBSLP",
+    "securityName": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(ACLBSLP) Aarambha Chautari Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 216,
+    "symbol": "ACEDBL",
+    "securityName": "Ace Development Bank Ltd.",
+    "name": "(ACEDBL) Ace Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 294,
+    "symbol": "ACEDPO",
+    "securityName": "ACE Development Bank Limited Promoter Share",
+    "name": "(ACEDPO) ACE Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2845,
+    "symbol": "AKBSL",
+    "securityName": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
+    "name": "(AKBSL) ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2846,
+    "symbol": "AKBSLPO",
+    "securityName": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+    "name": "(AKBSLPO) ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+    "activeStatus": "A"
+  },
+  {
+    "id": 397,
+    "symbol": "ADBL",
+    "securityName": "Agriculture Development Bank Limited",
+    "name": "(ADBL) Agriculture Development Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2886,
+    "symbol": "ADBLD83",
+    "securityName": "10.35% Agricultural Bank Debenture 2083",
+    "name": "(ADBLD83) 10.35% Agricultural Bank Debenture 2083",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2893,
+    "symbol": "AIL",
+    "securityName": "Ajod Insurance Limited",
+    "name": "(AIL) Ajod Insurance Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2894,
+    "symbol": "AILP",
+    "securityName": "Ajod Insurance Limited Promoter Share",
+    "name": "(AILP) Ajod Insurance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 240,
+    "symbol": "AEFL",
+    "securityName": "Alpic Everest Finance Co. Ltd.",
+    "name": "(AEFL) Alpic Everest Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 285,
+    "symbol": "AEFLPO",
+    "securityName": "Alpic Everest Finance Limited Promotor Share",
+    "name": "(AEFLPO) Alpic Everest Finance Limited Promotor Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 406,
+    "symbol": "ALDBL",
+    "securityName": "Alpine Development Bank Limited",
+    "name": "(ALDBL) Alpine Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 660,
+    "symbol": "ALDBLP",
+    "securityName": "Alpine Development Bank Limited Promoter Share",
+    "name": "(ALDBLP) Alpine Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2788,
+    "symbol": "AKJCL",
+    "securityName": "Ankhu Khola Jalvidhyut Company Ltd",
+    "name": "(AKJCL) Ankhu Khola Jalvidhyut Company Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 262,
+    "symbol": "APEX",
+    "securityName": "Apex Development Bank Ltd.",
+    "name": "(APEX) Apex Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 666,
+    "symbol": "APEXPO",
+    "securityName": "Apex Development Bank Ltd. Promoter Share",
+    "name": "(APEXPO) Apex Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 356,
+    "symbol": "AFL",
+    "securityName": "Api Finance Limited",
+    "name": "(AFL) Api Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 697,
+    "symbol": "API",
+    "securityName": "Api Power Company Ltd.",
+    "name": "(API) Api Power Company Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2777,
+    "symbol": "AMFI",
+    "securityName": "Arambha Microfinance Bittiya Sanstha Ltd.",
+    "name": "(AMFI) Arambha Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2778,
+    "symbol": "AMFIPO",
+    "securityName": "Arambha Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(AMFIPO) Arambha Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 622,
+    "symbol": "ARDBLP",
+    "securityName": "Araniko Development Bank Limited Promoter Share",
+    "name": "(ARDBLP) Araniko Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 443,
+    "symbol": "ARDBL",
+    "securityName": "Araniko Development Bank Limited",
+    "name": "(ARDBL) Araniko Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2757,
+    "symbol": "AKPL",
+    "securityName": "Arun Kabeli Power Ltd.",
+    "name": "(AKPL) Arun Kabeli Power Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 360,
+    "symbol": "AHPC",
+    "securityName": "Arun Valley Hydropower Development Co. Ltd.",
+    "name": "(AHPC) Arun Valley Hydropower Development Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 211,
+    "symbol": "AVU",
+    "securityName": "Arun Vanaspati Udhyog Limited",
+    "name": "(AVU) Arun Vanaspati Udhyog Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2807,
+    "symbol": "ALBSL",
+    "securityName": "Asha Laghubitta Bittiya Sanstha Ltd",
+    "name": "(ALBSL) Asha Laghubitta Bittiya Sanstha Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2808,
+    "symbol": "ALBSLP",
+    "securityName": "Asha Laghubitta Bittiya Sanstha Ltd Promoter Share",
+    "name": "(ALBSLP) Asha Laghubitta Bittiya Sanstha Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 385,
+    "symbol": "ALICL",
+    "securityName": "Asian Life Insurance Co. Limited",
+    "name": "(ALICL) Asian Life Insurance Co. Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 599,
+    "symbol": "ALICLP",
+    "securityName": "Asian Life Insurance Co. Ltd Promoter Share",
+    "name": "(ALICLP) Asian Life Insurance Co. Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 344,
+    "symbol": "AXIS",
+    "securityName": "Axis Development Bank Limited",
+    "name": "(AXIS) Axis Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 173,
+    "symbol": "BBBLN",
+    "securityName": "Bagheshwori Development Bank Limited",
+    "name": "(BBBLN) Bagheshwori Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 486,
+    "symbol": "BBBLNP",
+    "securityName": "Bagheshowari Development Bank  Ltd. Promoer Share",
+    "name": "(BBBLNP) Bagheshowari Development Bank  Ltd. Promoer Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 489,
+    "symbol": "BGDBL",
+    "securityName": "Bagmati Development Bank Ltd.",
+    "name": "(BGDBL) Bagmati Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 681,
+    "symbol": "BGDBLP",
+    "securityName": "Bagmati Development Bank Ltd. Promoter Share",
+    "name": "(BGDBLP) Bagmati Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 349,
+    "symbol": "BOAN",
+    "securityName": "Bank of Asia Nepal Limited",
+    "name": "(BOAN) Bank of Asia Nepal Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2870,
+    "symbol": "BOKD2079",
+    "securityName": "8% BOK Debenture 2079",
+    "name": "(BOKD2079) 8% BOK Debenture 2079",
+    "activeStatus": "A"
+  },
+  {
+    "id": 138,
+    "symbol": "BOKL",
+    "securityName": "Bank of Kathmandu Ltd.",
+    "name": "(BOKL) Bank of Kathmandu Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 289,
+    "symbol": "BOKLPO",
+    "securityName": "Bank of Kathmandu Limited Promoter Share",
+    "name": "(BOKLPO) Bank of Kathmandu Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 686,
+    "symbol": "BARUN",
+    "securityName": "Barun Hydropower Co. Ltd.",
+    "name": "(BARUN) Barun Hydropower Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 227,
+    "symbol": "BFC",
+    "securityName": "Best Finance Company Ltd.",
+    "name": "(BFC) Best Finance Company Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 339,
+    "symbol": "BFCPO",
+    "securityName": "Best Finance Co. Limited Promoter Share",
+    "name": "(BFCPO) Best Finance Co. Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 265,
+    "symbol": "BFIL",
+    "securityName": "Bhajuratna Finance & Saving Co. Ltd.",
+    "name": "(BFIL) Bhajuratna Finance & Saving Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 728,
+    "symbol": "BFCLPO",
+    "securityName": "Bhaktapur Finance Co. Ltd. Promoter Share",
+    "name": "(BFCLPO) Bhaktapur Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 680,
+    "symbol": "BFCL",
+    "securityName": "Bhaktapur Finance Co. Ltd.",
+    "name": "(BFCL) Bhaktapur Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 631,
+    "symbol": "BHBLPO",
+    "securityName": "Bhargav Bikash Bank Ltd. Promoter Share",
+    "name": "(BHBLPO) Bhargav Bikash Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 487,
+    "symbol": "BHBL",
+    "securityName": "Bhargav Bikash Bank Ltd.",
+    "name": "(BHBL) Bhargav Bikash Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 386,
+    "symbol": "BBBLPO",
+    "securityName": "Bhrikuti Bikash Bank Limited Promoter Share",
+    "name": "(BBBLPO) Bhrikuti Bikash Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 170,
+    "symbol": "BBBL",
+    "securityName": "Bhrikuti Vikash Bank Limited",
+    "name": "(BBBL) Bhrikuti Vikash Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 217,
+    "symbol": "BSL",
+    "securityName": "Birat Shoe Limited",
+    "name": "(BSL) Birat Shoe Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 279,
+    "symbol": "BLDBL",
+    "securityName": "Biratlaxmi Bikas Bank Limited",
+    "name": "(BLDBL) Biratlaxmi Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 477,
+    "symbol": "BLDBLP",
+    "securityName": "Biratlaxmi Development Bank Ltd. Promoter Share",
+    "name": "(BLDBLP) Biratlaxmi Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 197,
+    "symbol": "BJM",
+    "securityName": "Biratnagar Jute Mills Limited",
+    "name": "(BJM) Biratnagar Jute Mills Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 257,
+    "symbol": "BJFL",
+    "securityName": "Birgunj Finance Ltd.",
+    "name": "(BJFL) Birgunj Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 156,
+    "symbol": "BBC",
+    "securityName": "Bishal Bazar Company Limited",
+    "name": "(BBC) Bishal Bazar Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 195,
+    "symbol": "BNL",
+    "securityName": "Bottlers Nepal (Balaju) Limited",
+    "name": "(BNL) Bottlers Nepal (Balaju) Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 213,
+    "symbol": "BNT",
+    "securityName": "Bottlers Nepal (Terai) Limited",
+    "name": "(BNT) Bottlers Nepal (Terai) Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 535,
+    "symbol": "BRTBL",
+    "securityName": "Bright Development Bank Ltd",
+    "name": "(BRTBL) Bright Development Bank Ltd",
+    "activeStatus": "D"
+  },
+  {
+    "id": 168,
+    "symbol": "BUDBL",
+    "securityName": "Business Universal Development Bank Ltd.",
+    "name": "(BUDBL) Business Universal Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 646,
+    "symbol": "BUDBLP",
+    "securityName": "Business Universal Development Bank Ltd. Promoter Share",
+    "name": "(BUDBLP) Business Universal Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 153,
+    "symbol": "BPCL",
+    "securityName": "Butwal Power Company Limited",
+    "name": "(BPCL) Butwal Power Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 205,
+    "symbol": "BSM",
+    "securityName": "Butwal Spinning Mills Limited",
+    "name": "(BSM) Butwal Spinning Mills Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 288,
+    "symbol": "CMBFLP",
+    "securityName": "Capital Merchant Bank. & Fin. Promoter Share",
+    "name": "(CMBFLP) Capital Merchant Bank. & Fin. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 259,
+    "symbol": "CMB",
+    "securityName": "Capital Merchant Bank & Finance Co. Ltd.",
+    "name": "(CMB) Capital Merchant Bank & Finance Co. Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2862,
+    "symbol": "CMF2",
+    "securityName": "CITIZENS MUTUAL FUND 2",
+    "name": "(CMF2) CITIZENS MUTUAL FUND 2",
+    "activeStatus": "A"
+  },
+  {
+    "id": 3946,
+    "symbol": "CHDC",
+    "securityName": "CEDB Hydropower Development Company Limited",
+    "name": "(CHDC) CEDB Hydropower Development Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 245,
+    "symbol": "CFCL",
+    "securityName": "Central Finance Co. Ltd.",
+    "name": "(CFCL) Central Finance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 676,
+    "symbol": "CFCLPO",
+    "securityName": "Central Finance Co. Ltd. Promoter Share",
+    "name": "(CFCLPO) Central Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 656,
+    "symbol": "CCBLPO",
+    "securityName": "Century Commercial Bank Ltd. Promoter Share",
+    "name": "(CCBLPO) Century Commercial Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 605,
+    "symbol": "CCBL",
+    "securityName": "Century Commercial Bank Ltd.",
+    "name": "(CCBL) Century Commercial Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2917,
+    "symbol": "CGH",
+    "securityName": "Chandragiri Hills Limited",
+    "name": "(CGH) Chandragiri Hills Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2918,
+    "symbol": "CGHP",
+    "securityName": "Chandragiri Hills Limited Promoter",
+    "name": "(CGHP) Chandragiri Hills Limited Promoter",
+    "activeStatus": "D"
+  },
+  {
+    "id": 698,
+    "symbol": "CBBLPO",
+    "securityName": "Chhimek Laghubitta Bikas Bank Limited Promoter Share",
+    "name": "(CBBLPO) Chhimek Laghubitta Bikas Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 164,
+    "symbol": "CBBL",
+    "securityName": "Chhimek Laghubitta Bikas Bank Limited",
+    "name": "(CBBL) Chhimek Laghubitta Bikas Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2766,
+    "symbol": "CHL",
+    "securityName": "Chhyangdi Hydropower Ltd.",
+    "name": "(CHL) Chhyangdi Hydropower Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 154,
+    "symbol": "CHCL",
+    "securityName": "Chilime Hydropower Company Limited",
+    "name": "(CHCL) Chilime Hydropower Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 348,
+    "symbol": "CZBIL",
+    "securityName": "Citizen Bank International Limited",
+    "name": "(CZBIL) Citizen Bank International Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 493,
+    "symbol": "CZBILP",
+    "securityName": "Citizens Bank Internatioal Limited Promoter Share",
+    "name": "(CZBILP) Citizens Bank Internatioal Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2780,
+    "symbol": "CMF1",
+    "securityName": "Citizens Mutual Fund -1",
+    "name": "(CMF1) Citizens Mutual Fund -1",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2889,
+    "symbol": "CIZBD86",
+    "securityName": "10.25% Citizens Bank Debenture 2086",
+    "name": "(CIZBD86) 10.25% Citizens Bank Debenture 2086",
+    "activeStatus": "A"
+  },
+  {
+    "id": 210,
+    "symbol": "CIT",
+    "securityName": "Citizen Investment Trust",
+    "name": "(CIT) Citizen Investment Trust",
+    "activeStatus": "A"
+  },
+  {
+    "id": 296,
+    "symbol": "CEFL",
+    "securityName": "City Express Finance Co. Limited",
+    "name": "(CEFL) City Express Finance Co. Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2756,
+    "symbol": "CEFLPO",
+    "securityName": "City Express Finance Co. Ltd. Promoter Share",
+    "name": "(CEFLPO) City Express Finance Co. Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 533,
+    "symbol": "CIVIC",
+    "securityName": "Civic Development Bank Ltd",
+    "name": "(CIVIC) Civic Development Bank Ltd",
+    "activeStatus": "D"
+  },
+  {
+    "id": 532,
+    "symbol": "CBL",
+    "securityName": "Civil Bank Ltd",
+    "name": "(CBL) Civil Bank Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 653,
+    "symbol": "CBLPO",
+    "securityName": "Civil Bank Ltd Promoter Share",
+    "name": "(CBLPO) Civil Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 387,
+    "symbol": "PSDBLP",
+    "securityName": "Pashupati Development Bank Limited Promoter Share",
+    "name": "(PSDBLP) Pashupati Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 725,
+    "symbol": "CLBSLP",
+    "securityName": "Civil Laghubitta Bittiya Sanstha Promoter",
+    "name": "(CLBSLP) Civil Laghubitta Bittiya Sanstha Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 693,
+    "symbol": "CLBSL",
+    "securityName": "Civil Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(CLBSL) Civil Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 430,
+    "symbol": "CMBSLp",
+    "securityName": "Civil Merchant  Bittiya Sanstha Limited Promoter Share",
+    "name": "(CMBSLp) Civil Merchant  Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 272,
+    "symbol": "CMBSL",
+    "securityName": "Civil Merchant Bittiya Santha Ltd.",
+    "name": "(CMBSL) Civil Merchant Bittiya Santha Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 336,
+    "symbol": "CEDBL",
+    "securityName": "Clean Energy Development Bank Limited",
+    "name": "(CEDBL) Clean Energy Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 481,
+    "symbol": "CEDBLP",
+    "securityName": "Clean Energy Development Bank Ltd. Promoter Share",
+    "name": "(CEDBLP) Clean Energy Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 253,
+    "symbol": "CMBF",
+    "securityName": "CMB Finance Limited",
+    "name": "(CMBF) CMB Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 303,
+    "symbol": "CMBFPO",
+    "securityName": "CMB Finance Ltd. Promoter Share",
+    "name": "(CMBFPO) CMB Finance Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 539,
+    "symbol": "CTBNL",
+    "securityName": "Commerz and Trust Bank Nepal Ltd.",
+    "name": "(CTBNL) Commerz and Trust Bank Nepal Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 450,
+    "symbol": "CORBL",
+    "securityName": "Corporate Development Bank Limited",
+    "name": "(CORBL) Corporate Development Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2763,
+    "symbol": "CORBLP",
+    "securityName": "Corporate Development Bank Ltd. Promoter Share",
+    "name": "(CORBLP) Corporate Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 600,
+    "symbol": "CSDBL",
+    "securityName": "Cosmos Development Bank Ltd.",
+    "name": "(CSDBL) Cosmos Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 638,
+    "symbol": "CSDBLP",
+    "securityName": "Cosmos Development Bank Ltd. Promoter Share",
+    "name": "(CSDBLP) Cosmos Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 641,
+    "symbol": "CNDBLP",
+    "securityName": "Country Development Bank Ltd. Promoter Share",
+    "name": "(CNDBLP) Country Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 448,
+    "symbol": "CNDBL",
+    "securityName": "Country Development Bank Ltd.",
+    "name": "(CNDBL) Country Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 361,
+    "symbol": "CFL",
+    "securityName": "Crystal Finance Ltd.",
+    "name": "(CFL) Crystal Finance Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 166,
+    "symbol": "DDBL",
+    "securityName": "Deprosc Laghubitta Bittiya Sanstha Limited",
+    "name": "(DDBL) Deprosc Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 607,
+    "symbol": "DDBLPO",
+    "securityName": "Deprosc LaghuBitta Promoter Share",
+    "name": "(DDBLPO) Deprosc LaghuBitta Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 311,
+    "symbol": "DBBL",
+    "securityName": "Deva Bikas Bank Limited",
+    "name": "(DBBL) Deva Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 573,
+    "symbol": "DBBLPO",
+    "securityName": "Dev BikasBank Ltd. Promoter Share",
+    "name": "(DBBLPO) Dev BikasBank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2754,
+    "symbol": "DHPL",
+    "securityName": "Dibyashwori Hydropower Ltd.",
+    "name": "(DHPL) Dibyashwori Hydropower Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 617,
+    "symbol": "EKBL",
+    "securityName": "Ekata Bikas Bank Ltd.",
+    "name": "(EKBL) Ekata Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 642,
+    "symbol": "EKBLPO",
+    "securityName": "Ekata Bikas Bank Ltd. Promoter Share",
+    "name": "(EKBLPO) Ekata Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 594,
+    "symbol": "EBLPO",
+    "securityName": "Everest Bank Ltd.Promoter",
+    "name": "(EBLPO) Everest Bank Ltd.Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 137,
+    "symbol": "EBL",
+    "securityName": "Everest Bank Limited",
+    "name": "(EBL) Everest Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 277,
+    "symbol": "EBLCP",
+    "securityName": "Everest Bank Limited Con. Pref.",
+    "name": "(EBLCP) Everest Bank Limited Con. Pref.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2871,
+    "symbol": "EBLD2078",
+    "securityName": "8% EBL Debenture 2078",
+    "name": "(EBLD2078) 8% EBL Debenture 2078",
+    "activeStatus": "A"
+  },
+  {
+    "id": 258,
+    "symbol": "EFL",
+    "securityName": "Everest Finance Ltd.",
+    "name": "(EFL) Everest Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 335,
+    "symbol": "EFLPO",
+    "securityName": "Everest Finance Limited Promoter Share",
+    "name": "(EFLPO) Everest Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 702,
+    "symbol": "EICPO",
+    "securityName": "Everest Insurance Co. Ltd. Promoter Share",
+    "name": "(EICPO) Everest Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 181,
+    "symbol": "EIC",
+    "securityName": "Everest Insurance Co. Ltd.",
+    "name": "(EIC) Everest Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 274,
+    "symbol": "EDBL",
+    "securityName": "Excel Development Bank Ltd.",
+    "name": "(EDBL) Excel Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 612,
+    "symbol": "EDBLPO",
+    "securityName": "Excel Development Bank Ltd. Promoter Share",
+    "name": "(EDBLPO) Excel Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 254,
+    "symbol": "FFCL",
+    "securityName": "Fewa Finance Co. Ltd.",
+    "name": "(FFCL) Fewa Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 722,
+    "symbol": "FMDBLP",
+    "securityName": "First Micro Finance Development Bank Ltd. Promoter Share",
+    "name": "(FMDBLP) First Micro Finance Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 490,
+    "symbol": "FMDBL",
+    "securityName": "First Micro Finance Development Bank Ltd.",
+    "name": "(FMDBL) First Micro Finance Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 228,
+    "symbol": "FHL",
+    "securityName": "Fleur Himalayan Limited",
+    "name": "(FHL) Fleur Himalayan Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2758,
+    "symbol": "FOWAD",
+    "securityName": "Forward Community Microfinance Bittiya Sanstha Ltd.",
+    "name": "(FOWAD) Forward Community Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2921,
+    "symbol": "FOWADP",
+    "securityName": "Forward Community Microfinance Bittiya Sanstha Ltd Promoter Share",
+    "name": "(FOWADP) Forward Community Microfinance Bittiya Sanstha Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2815,
+    "symbol": "GMFBS",
+    "securityName": "Ganapati Microfinance Bittiya Sanstha Limited",
+    "name": "(GMFBS) Ganapati Microfinance Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2818,
+    "symbol": "GMFBSP",
+    "securityName": "Ganapati Microfinance Bittiya Sanstha Limited Promoter Share",
+    "name": "(GMFBSP) Ganapati Microfinance Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 420,
+    "symbol": "GDBL",
+    "securityName": "Gandaki Bikas Bank Limited",
+    "name": "(GDBL) Gandaki Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 319,
+    "symbol": "FBBLPO",
+    "securityName": "Fewa Bikas Bank Ltd. Promoter Share",
+    "name": "(FBBLPO) Fewa Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 628,
+    "symbol": "BSBLPO",
+    "securityName": "Bishwa Bikas Bank Limited Promoter Share",
+    "name": "(BSBLPO) Bishwa Bikas Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 670,
+    "symbol": "GDBLPO",
+    "securityName": "Gandaki Bikas Bank Limited Promoter Share",
+    "name": "(GDBLPO) Gandaki Bikas Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 167,
+    "symbol": "GDBL1",
+    "securityName": "Gandaki Bikas BankLimited",
+    "name": "(GDBL1) Gandaki Bikas BankLimited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 623,
+    "symbol": "GBBLPO",
+    "securityName": "Garima Bikas Bank Limited Promoter Share",
+    "name": "(GBBLPO) Garima Bikas Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 417,
+    "symbol": "GBBL",
+    "securityName": "Garima Bikas Bank Limited",
+    "name": "(GBBL) Garima Bikas Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 664,
+    "symbol": "GABLPO",
+    "securityName": "Gaumukhee Bikas Bank Ltd. Promoter Share",
+    "name": "(GABLPO) Gaumukhee Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 572,
+    "symbol": "GABL",
+    "securityName": "Gaumukhee Bikas Bank Ltd.",
+    "name": "(GABL) Gaumukhee Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 412,
+    "symbol": "GSDBL",
+    "securityName": "Gaurishankar Development Bank Ltd.",
+    "name": "(GSDBL) Gaurishankar Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 426,
+    "symbol": "GSDBLP",
+    "securityName": "Gaurishankar Development Bank Ltd. Promoter Share",
+    "name": "(GSDBLP) Gaurishankar Development Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2905,
+    "symbol": "GIC",
+    "securityName": "General Insurance Company Nepal Ltd",
+    "name": "(GIC) General Insurance Company Nepal Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2906,
+    "symbol": "GICP",
+    "securityName": "General Insurance Company Nepal Ltd Promoter Share",
+    "name": "(GICP) General Insurance Company Nepal Ltd Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2806,
+    "symbol": "GHL",
+    "securityName": "Ghalemdi Hydro Limited",
+    "name": "(GHL) Ghalemdi Hydro Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2852,
+    "symbol": "GGBSL",
+    "securityName": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(GGBSL) Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2853,
+    "symbol": "GGBSLP",
+    "securityName": "Ghodighoda Laghubitta Bittiya Sanstha Ltd Promoter share ",
+    "name": "(GGBSLP) Ghodighoda Laghubitta Bittiya Sanstha Ltd Promoter share ",
+    "activeStatus": "D"
+  },
+  {
+    "id": 341,
+    "symbol": "GBIME",
+    "securityName": "Global IME Bank Limited",
+    "name": "(GBIME) Global IME Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 511,
+    "symbol": "GBIMEP",
+    "securityName": "Global IME Bank Ltd. Promoter Share",
+    "name": "(GBIMEP) Global IME Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 1740,
+    "symbol": "GIMES1",
+    "securityName": "Global IME Samunnat Scheme-1",
+    "name": "(GIMES1) Global IME Samunnat Scheme-1",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2840,
+    "symbol": "GBD80/81",
+    "securityName": "10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
+    "name": "(GBD80/81) 10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
+    "activeStatus": "A"
+  },
+  {
+    "id": 731,
+    "symbol": "GILBPO",
+    "securityName": "Global IME Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(GILBPO) Global IME Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 705,
+    "symbol": "GILB",
+    "securityName": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(GILB) Global IME Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 232,
+    "symbol": "GFCL",
+    "securityName": "Goodwill Finance Co. Ltd.",
+    "name": "(GFCL) Goodwill Finance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 355,
+    "symbol": "GFCLPO",
+    "securityName": "Goodwill Finance Co. Ltd. Promoter Share",
+    "name": "(GFCLPO) Goodwill Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2883,
+    "symbol": "GWFD83",
+    "securityName": "12 % Goodwill Finance Limited Debenture 2083",
+    "name": "(GWFD83) 12 % Goodwill Finance Limited Debenture 2083",
+    "activeStatus": "A"
+  },
+  {
+    "id": 207,
+    "symbol": "GRU",
+    "securityName": "Gorakhkali Rubber Udhyog Limited",
+    "name": "(GRU) Gorakhkali Rubber Udhyog Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 220,
+    "symbol": "GFLK",
+    "securityName": "Gorkha Finance Ltd.",
+    "name": "(GFLK) Gorkha Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 351,
+    "symbol": "GFLKPO",
+    "securityName": "Gorkha Finance Limited Promoter Share",
+    "name": "(GFLKPO) Gorkha Finance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 583,
+    "symbol": "GBLBS",
+    "securityName": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(GBLBS) Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 712,
+    "symbol": "GBLBSP",
+    "securityName": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(GBLBSP) Grameen Bikas Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 346,
+    "symbol": "PDBLPO",
+    "securityName": "Paschimanchal Bikash Bank Ltd. Promoter Share",
+    "name": "(PDBLPO) Paschimanchal Bikash Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 310,
+    "symbol": "GRANDP",
+    "securityName": "Grand Bank Limited Promoter Share",
+    "name": "(GRANDP) Grand Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 162,
+    "symbol": "GRAND",
+    "securityName": "Grand Bank Nepal Limited",
+    "name": "(GRAND) Grand Bank Nepal Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2744,
+    "symbol": "GRDBL",
+    "securityName": "Green Development Bank Ltd.",
+    "name": "(GRDBL) Green Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2745,
+    "symbol": "GRDBLP",
+    "securityName": "Green Development Bank Ltd. Promoter Share",
+    "name": "(GRDBLP) Green Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2924,
+    "symbol": "GLH",
+    "securityName": "GreenLife Hydropower Limited",
+    "name": "(GLH) GreenLife Hydropower Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 613,
+    "symbol": "GMFILP",
+    "securityName": "Guheyshwori Merchant & Finance Ltd. Promoter Share",
+    "name": "(GMFILP) Guheyshwori Merchant & Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 263,
+    "symbol": "GMFIL",
+    "securityName": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+    "name": "(GMFIL) Guheshowori Merchant Bank & Finance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 504,
+    "symbol": "GULMI",
+    "securityName": "Gulmi Bikas Bank Ltd.",
+    "name": "(GULMI) Gulmi Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2826,
+    "symbol": "GLBSL",
+    "securityName": "Gurans Laghubitta Bittiya Sanstha Limited",
+    "name": "(GLBSL) Gurans Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2827,
+    "symbol": "GLBSLP",
+    "securityName": "Gurans Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(GLBSLP) Gurans Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 447,
+    "symbol": "GLICL",
+    "securityName": "Gurans Life Insurance Company Ltd.",
+    "name": "(GLICL) Gurans Life Insurance Company Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 621,
+    "symbol": "GLICLP",
+    "securityName": "Guras Life Insurance Company Ltd. Promoter Share",
+    "name": "(GLICLP) Guras Life Insurance Company Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 175,
+    "symbol": "GDBNL",
+    "securityName": "Gurkha Development Bank Limited",
+    "name": "(GDBNL) Gurkha Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 204,
+    "symbol": "GUFL",
+    "securityName": "Gurkhas Finance Ltd.",
+    "name": "(GUFL) Gurkhas Finance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 315,
+    "symbol": "GUFLPO",
+    "securityName": "Gurkhas Finance  Ltd. Promoter Share",
+    "name": "(GUFLPO) Gurkhas Finance  Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 470,
+    "symbol": "HAMA",
+    "securityName": "Hama Merchant & Finance Ltd.",
+    "name": "(HAMA) Hama Merchant & Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 611,
+    "symbol": "HAMAPO",
+    "securityName": "Hama Merchant & Finance Ltd. Promoter Share",
+    "name": "(HAMAPO) Hama Merchant & Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 576,
+    "symbol": "HAMRO",
+    "securityName": "Hamro Bikas Bank Ltd.",
+    "name": "(HAMRO) Hamro Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 639,
+    "symbol": "HAMROP",
+    "securityName": "Hamro Bikas Bank Ltd. Promoter Share",
+    "name": "(HAMROP) Hamro Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 215,
+    "symbol": "HBT",
+    "securityName": "Harisiddhi Brick And Tiles Limited",
+    "name": "(HBT) Harisiddhi Brick And Tiles Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 685,
+    "symbol": "HATHPO",
+    "securityName": "Hathway Finance Company Limited Promoter Share",
+    "name": "(HATHPO) Hathway Finance Company Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 421,
+    "symbol": "HATH",
+    "securityName": "Hathway Finance Company Limited",
+    "name": "(HATH) Hathway Finance Company Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2880,
+    "symbol": "HDHPC",
+    "securityName": "Himal Dolakha Hydropower Company Limited",
+    "name": "(HDHPC) Himal Dolakha Hydropower Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2824,
+    "symbol": "HURJA",
+    "securityName": "Himalaya Urja Bikas Company Limited",
+    "name": "(HURJA) Himalaya Urja Bikas Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 564,
+    "symbol": "HBLPO",
+    "securityName": "Himalayan Bank Ltd. Promoter",
+    "name": "(HBLPO) Himalayan Bank Ltd. Promoter",
+    "activeStatus": "S"
+  },
+  {
+    "id": 134,
+    "symbol": "HBL",
+    "securityName": "Himalayan Bank Limited",
+    "name": "(HBL) Himalayan Bank Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2873,
+    "symbol": "HBLD83",
+    "securityName": "10% Himalayan Bank Debenture 2083",
+    "name": "(HBLD83) 10% Himalayan Bank Debenture 2083",
+    "activeStatus": "A"
+  },
+  {
+    "id": 235,
+    "symbol": "HDL",
+    "securityName": "Himalayan Distillery Limited",
+    "name": "(HDL) Himalayan Distillery Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 441,
+    "symbol": "HFL",
+    "securityName": "Himalayan Finance Limited (Bittiya Sanstha)",
+    "name": "(HFL) Himalayan Finance Limited (Bittiya Sanstha)",
+    "activeStatus": "S"
+  },
+  {
+    "id": 700,
+    "symbol": "HGIPO",
+    "securityName": "Himalayan General Insurance Co. Ltd Promoter Share",
+    "name": "(HGIPO) Himalayan General Insurance Co. Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 179,
+    "symbol": "HGI",
+    "securityName": "Himalayan General Insurance Co. Ltd",
+    "name": "(HGI) Himalayan General Insurance Co. Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2767,
+    "symbol": "HPPL",
+    "securityName": "Himalayan Power Partner Ltd.",
+    "name": "(HPPL) Himalayan Power Partner Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 224,
+    "symbol": "HTL",
+    "securityName": "Himgiri Textile Industries Limited",
+    "name": "(HTL) Himgiri Textile Industries Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2742,
+    "symbol": "HIDCL",
+    "securityName": "Hydorelectricity Investment and Development Company Ltd",
+    "name": "(HIDCL) Hydorelectricity Investment and Development Company Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 273,
+    "symbol": "ICFC",
+    "securityName": "ICFC Finance Limited",
+    "name": "(ICFC) ICFC Finance Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 400,
+    "symbol": "ICFCPO",
+    "securityName": "ICFC Finance Limited Promotor Share",
+    "name": "(ICFCPO) ICFC Finance Limited Promotor Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2882,
+    "symbol": "ICFCD83",
+    "securityName": "12% ICFC Finance Limited Debenture 2083",
+    "name": "(ICFCD83) 12% ICFC Finance Limited Debenture 2083",
+    "activeStatus": "A"
+  },
+  {
+    "id": 264,
+    "symbol": "IMEFI",
+    "securityName": "IME Financial Institution",
+    "name": "(IMEFI) IME Financial Institution",
+    "activeStatus": "D"
+  },
+  {
+    "id": 415,
+    "symbol": "IMEFIP",
+    "securityName": "IME Financial Institution Promoter Share",
+    "name": "(IMEFIP) IME Financial Institution Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 186,
+    "symbol": "IGI",
+    "securityName": "IME General Insurance Ltd.",
+    "name": "(IGI) IME General Insurance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 635,
+    "symbol": "IGIPO",
+    "securityName": "IME General Insurance  Ltd. Promoter Share",
+    "name": "(IGIPO) IME General Insurance  Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 484,
+    "symbol": "IFILPO",
+    "securityName": "Imperial Finance Ltd Promoter Share",
+    "name": "(IFILPO) Imperial Finance Ltd Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 270,
+    "symbol": "IFIL",
+    "securityName": "Imperial Financial Inst. Ltd.",
+    "name": "(IFIL) Imperial Financial Inst. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2832,
+    "symbol": "ILBS",
+    "securityName": "Infinity Laghubitta Bittiya Sanstha Limited",
+    "name": "(ILBS) Infinity Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2833,
+    "symbol": "ILBSP",
+    "securityName": "Infinity Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(ILBSP) Infinity Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 392,
+    "symbol": "IDBLPO",
+    "securityName": "Infrastructure Development Bank Limited Promoter Share",
+    "name": "(IDBLPO) Infrastructure Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 290,
+    "symbol": "IDBL",
+    "securityName": "Infrastructure Development Bank Ltd.",
+    "name": "(IDBL) Infrastructure Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 683,
+    "symbol": "INDBPO",
+    "securityName": "Innovative Development Bank Ltd. Promoter Share",
+    "name": "(INDBPO) Innovative Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 529,
+    "symbol": "INDB",
+    "securityName": "Innovative Development Bank Ltd.",
+    "name": "(INDB) Innovative Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 536,
+    "symbol": "INDBL",
+    "securityName": "International Development Bank Ltd",
+    "name": "(INDBL) International Development Bank Ltd",
+    "activeStatus": "D"
+  },
+  {
+    "id": 709,
+    "symbol": "INDBLP",
+    "securityName": "International Development Bank Ltd Promoter Share",
+    "name": "(INDBLP) International Development Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 243,
+    "symbol": "ILFC",
+    "securityName": "International Leasing & Finance Co. Ltd.",
+    "name": "(ILFC) International Leasing & Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 690,
+    "symbol": "ILFCPO",
+    "securityName": "International Leasing & Finance Co. Ltd. Promoter Share",
+    "name": "(ILFCPO) International Leasing & Finance Co. Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 292,
+    "symbol": "JFLPO",
+    "securityName": "Janaki Finance Limited Promoter Share",
+    "name": "(JFLPO) Janaki Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 250,
+    "symbol": "JFL",
+    "securityName": "Janaki Finance Ltd.",
+    "name": "(JFL) Janaki Finance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 654,
+    "symbol": "JBNLPO",
+    "securityName": "Janata Bank Nepal Ltd. Promoter Share",
+    "name": "(JBNLPO) Janata Bank Nepal Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 496,
+    "symbol": "JBNL",
+    "securityName": "Janata Bank Nepal Ltd.",
+    "name": "(JBNL) Janata Bank Nepal Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 719,
+    "symbol": "JSLBBP",
+    "securityName": "Janautthan Samudayic Laghubitta Bikas Bank Ltd. Promoter Share",
+    "name": "(JSLBBP) Janautthan Samudayic Laghubitta Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 695,
+    "symbol": "JSLBB",
+    "securityName": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+    "name": "(JSLBB) Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 673,
+    "symbol": "JEFLPO",
+    "securityName": "Jebils Finance Ltd. Promoter Share",
+    "name": "(JEFLPO) Jebils Finance Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 577,
+    "symbol": "JEFL",
+    "securityName": "Jebils Finance Ltd.",
+    "name": "(JEFL) Jebils Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 563,
+    "symbol": "JHBL",
+    "securityName": "Jhimruk Bikas Bank Ltd.",
+    "name": "(JHBL) Jhimruk Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 647,
+    "symbol": "JHBLPO",
+    "securityName": "Jhimruk Bikas Bank Ltd. Promoter Share",
+    "name": "(JHBLPO) Jhimruk Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2789,
+    "symbol": "JOSHI",
+    "securityName": "Joshi Hydropower Development Company Ltd",
+    "name": "(JOSHI) Joshi Hydropower Development Company Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 418,
+    "symbol": "JBBL",
+    "securityName": "Jyoti Bikas Bank Limited",
+    "name": "(JBBL) Jyoti Bikas Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 579,
+    "symbol": "JBBLPO",
+    "securityName": "Jyoti Bikash  Bank Ltd. Promoter Share",
+    "name": "(JBBLPO) Jyoti Bikash  Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2929,
+    "symbol": "JLI",
+    "securityName": "Jyoti Life Insurance Ltd",
+    "name": "(JLI) Jyoti Life Insurance Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2930,
+    "symbol": "JLIP",
+    "securityName": "Jyoti Life Insurance Ltd Promoter",
+    "name": "(JLIP) Jyoti Life Insurance Ltd Promoter",
+    "activeStatus": "D"
+  },
+  {
+    "id": 209,
+    "symbol": "JSM",
+    "securityName": "Jyoti Sinning Mills Limited",
+    "name": "(JSM) Jyoti Sinning Mills Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 427,
+    "symbol": "KEBL",
+    "securityName": "Kabeli Bikas Bank Limited",
+    "name": "(KEBL) Kabeli Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 729,
+    "symbol": "KEBLPO",
+    "securityName": "Kabeli BIkas Bank Ltd. Promoter Share",
+    "name": "(KEBLPO) Kabeli BIkas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 202,
+    "symbol": "KBBL",
+    "securityName": "Kailash Bikas Bank Ltd.",
+    "name": "(KBBL) Kailash Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 305,
+    "symbol": "KBBLPO",
+    "securityName": "Kailash Bikas Bank Ltd. Promoter Share",
+    "name": "(KBBLPO) Kailash Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 531,
+    "symbol": "KKBL",
+    "securityName": "Kakre Bihar Bikash Bank Ltd",
+    "name": "(KKBL) Kakre Bihar Bikash Bank Ltd",
+    "activeStatus": "D"
+  },
+  {
+    "id": 727,
+    "symbol": "KKBLPO",
+    "securityName": "Kakre Bihar Bikash Bank Ltd Promoter Share",
+    "name": "(KKBLPO) Kakre Bihar Bikash Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 678,
+    "symbol": "KMCDBP",
+    "securityName": "Kalika Microcredit Development Bank Ltd. Promoter Share",
+    "name": "(KMCDBP) Kalika Microcredit Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 593,
+    "symbol": "KMCDB",
+    "securityName": "Kalika Microcredit Development Bank Ltd.",
+    "name": "(KMCDB) Kalika Microcredit Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2787,
+    "symbol": "KPCL",
+    "securityName": "Kalika power Company Ltd",
+    "name": "(KPCL) Kalika power Company Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 718,
+    "symbol": "KCDBLP",
+    "securityName": "Kalinchowk Development Bank Ltd. Promoter Share",
+    "name": "(KCDBLP) Kalinchowk Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 627,
+    "symbol": "KCDBL",
+    "securityName": "Kalinchowk Development Bank Ltd.",
+    "name": "(KCDBL) Kalinchowk Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 459,
+    "symbol": "KSBBL",
+    "securityName": "Kamana Sewa Bikas Bank Limited",
+    "name": "(KSBBL) Kamana Sewa Bikas Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 677,
+    "symbol": "KSBBLP",
+    "securityName": "Kamana Sewa Bikas Bank Limited Promoter Share",
+    "name": "(KSBBLP) Kamana Sewa Bikas Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 4948,
+    "symbol": "KSBBLD87",
+    "securityName": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+    "name": "(KSBBLD87) 9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+    "activeStatus": "A"
+  },
+  {
+    "id": 505,
+    "symbol": "KADBL",
+    "securityName": "Kanchan Development Bank Limited",
+    "name": "(KADBL) Kanchan Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 710,
+    "symbol": "KADBLP",
+    "securityName": "Kanchan Development Bank Limited Promoter Share",
+    "name": "(KADBLP) Kanchan Development Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 637,
+    "symbol": "KNBLPO",
+    "securityName": "Kankai Bikas Bank Ltd. Promoter Share",
+    "name": "(KNBLPO) Kankai Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 419,
+    "symbol": "KNBL",
+    "securityName": "Kankai Bikas Bank Ltd.",
+    "name": "(KNBL) Kankai Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 1739,
+    "symbol": "KRBLPO",
+    "securityName": "Karnali Development Bank Limited Promoter Share",
+    "name": "(KRBLPO) Karnali Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 428,
+    "symbol": "KRBL",
+    "securityName": "Karnali Development Bank Limited",
+    "name": "(KRBL) Karnali Development Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 332,
+    "symbol": "KAFIL",
+    "securityName": "Kaski Finance Limited",
+    "name": "(KAFIL) Kaski Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 558,
+    "symbol": "KAFILP",
+    "securityName": "Kaski Finanace Ltd. Promoter",
+    "name": "(KAFILP) Kaski Finanace Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 550,
+    "symbol": "KDBLPO",
+    "securityName": "Kasthamandap Dev. Bank Ltd Promoter Share",
+    "name": "(KDBLPO) Kasthamandap Dev. Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 388,
+    "symbol": "KDBL",
+    "securityName": "Kasthamandap Development Bank Limited",
+    "name": "(KDBL) Kasthamandap Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 537,
+    "symbol": "KHDBL",
+    "securityName": "Khandbari Development Bank Ltd",
+    "name": "(KHDBL) Khandbari Development Bank Ltd",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2751,
+    "symbol": "KKHC",
+    "securityName": "Khanikhola Hydropower Co. Ltd.",
+    "name": "(KKHC) Khanikhola Hydropower Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 694,
+    "symbol": "KLBSL",
+    "securityName": "Kisan Lagubitta Bittiya Sanstha Limited",
+    "name": "(KLBSL) Kisan Lagubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 733,
+    "symbol": "KLBSLP",
+    "securityName": "Kisan Lagubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(KLBSLP) Kisan Lagubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2885,
+    "symbol": "KBLD86",
+    "securityName": "10.25% KBL Debenture 2086",
+    "name": "(KBLD86) 10.25% KBL Debenture 2086",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2933,
+    "symbol": "KEF",
+    "securityName": "Kumari Equity Fund",
+    "name": "(KEF) Kumari Equity Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 142,
+    "symbol": "KBL",
+    "securityName": "Kumari Bank Limited",
+    "name": "(KBL) Kumari Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 283,
+    "symbol": "KBLPO",
+    "securityName": "Kumari Bank Limited Promotor Share",
+    "name": "(KBLPO) Kumari Bank Limited Promotor Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 231,
+    "symbol": "LFC",
+    "securityName": "Lalitpur Finance Ltd.",
+    "name": "(LFC) Lalitpur Finance Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 330,
+    "symbol": "LFCPO",
+    "securityName": "Lalitpur Finance Co. Ltd. Promoter Share",
+    "name": "(LFCPO) Lalitpur Finance Co. Ltd. Promoter Share",
+    "activeStatus": "S"
+  },
+  {
+    "id": 286,
+    "symbol": "LBLPO",
+    "securityName": "Laxmi Bank Limited Promoter Share",
+    "name": "(LBLPO) Laxmi Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 141,
+    "symbol": "LBL",
+    "securityName": "Laxmi Bank Limited",
+    "name": "(LBL) Laxmi Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2765,
+    "symbol": "LEMF",
+    "securityName": "Laxmi Equity Fund",
+    "name": "(LEMF) Laxmi Equity Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 674,
+    "symbol": "LVF1",
+    "securityName": "Laxmi Value Fund-1",
+    "name": "(LVF1) Laxmi Value Fund-1",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2879,
+    "symbol": "LBLD86",
+    "securityName": "10% Laxmi Bank Debenture 2086",
+    "name": "(LBLD86) 10% Laxmi Bank Debenture 2086",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2902,
+    "symbol": "LUK",
+    "securityName": "Laxmi Unnati Kosh",
+    "name": "(LUK) Laxmi Unnati Kosh",
+    "activeStatus": "A"
+  },
+  {
+    "id": 644,
+    "symbol": "LLBSPO",
+    "securityName": "Laxmi Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(LLBSPO) Laxmi Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 618,
+    "symbol": "LLBS",
+    "securityName": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(LLBS) Laxmi Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2903,
+    "symbol": "LEC",
+    "securityName": "Liberty Energy Company Limited",
+    "name": "(LEC) Liberty Energy Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 188,
+    "symbol": "LICN",
+    "securityName": "Life Insurance Co. Nepal",
+    "name": "(LICN) Life Insurance Co. Nepal",
+    "activeStatus": "A"
+  },
+  {
+    "id": 696,
+    "symbol": "LICNPO",
+    "securityName": "Life Insurance Co. Nepal Promoter Share",
+    "name": "(LICNPO) Life Insurance Co. Nepal Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 320,
+    "symbol": "LBFIL",
+    "securityName": "Lord Buddha Finance Limited",
+    "name": "(LBFIL) Lord Buddha Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 284,
+    "symbol": "LUBLPO",
+    "securityName": "Lumbini Bank Limited Promotor Share",
+    "name": "(LUBLPO) Lumbini Bank Limited Promotor Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 143,
+    "symbol": "LUBL",
+    "securityName": "Lumbini Bank Limited",
+    "name": "(LUBL) Lumbini Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 626,
+    "symbol": "LBBLPO",
+    "securityName": "Lumbini Bikas Bank Ltd. Promoter Share",
+    "name": "(LBBLPO) Lumbini Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 358,
+    "symbol": "LBBL",
+    "securityName": "Lumbini Bikas Bank Ltd.",
+    "name": "(LBBL) Lumbini Bikas Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 237,
+    "symbol": "LFLC",
+    "securityName": "Lumbini Finance Ltd.",
+    "name": "(LFLC) Lumbini Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 523,
+    "symbol": "LFLCPO",
+    "securityName": "Lumbini Finance Ltd Promoter Share",
+    "name": "(LFLCPO) Lumbini Finance Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 190,
+    "symbol": "LGIL",
+    "securityName": "Lumbini General Insurance Co. Ltd.",
+    "name": "(LGIL) Lumbini General Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 703,
+    "symbol": "LGILPO",
+    "securityName": "Lumbini General Insurance Co. Ltd. Promoter Share",
+    "name": "(LGILPO) Lumbini General Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2866,
+    "symbol": "MBLD2085",
+    "securityName": "10.25% Machhapuchhre Bank Debenture 2085",
+    "name": "(MBLD2085) 10.25% Machhapuchhre Bank Debenture 2085",
+    "activeStatus": "A"
+  },
+  {
+    "id": 140,
+    "symbol": "MBL",
+    "securityName": "Machhapuchhre Bank Limited",
+    "name": "(MBL) Machhapuchhre Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 281,
+    "symbol": "MBLPO",
+    "securityName": "MachhaPuchhre  Bank Limited Promotor Share",
+    "name": "(MBLPO) MachhaPuchhre  Bank Limited Promotor Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 364,
+    "symbol": "MGBL",
+    "securityName": "Madhyamanchal Gramin Development Bank Ltd.",
+    "name": "(MGBL) Madhyamanchal Gramin Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 229,
+    "symbol": "MFL",
+    "securityName": "Maha Laxmi Finance Ltd.",
+    "name": "(MFL) Maha Laxmi Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 495,
+    "symbol": "MFLPO",
+    "securityName": "Maha Laxmi Finance Co. Ltd. Promoter Share",
+    "name": "(MFLPO) Maha Laxmi Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 370,
+    "symbol": "MBBL",
+    "securityName": "Mahakali Bikas Bank Limited",
+    "name": "(MBBL) Mahakali Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 569,
+    "symbol": "MBBLPO",
+    "securityName": "Mahakali Bikas Bank Ltd. Promoter",
+    "name": "(MBBLPO) Mahakali Bikas Bank Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 620,
+    "symbol": "MLBLPO",
+    "securityName": "Mahalxmi Bikas Bank Ltd. Promotor Share",
+    "name": "(MLBLPO) Mahalxmi Bikas Bank Ltd. Promotor Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 401,
+    "symbol": "MLBL",
+    "securityName": "Mahalaxmi Bikas Bank Ltd.",
+    "name": "(MLBL) Mahalaxmi Bikas Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 291,
+    "symbol": "MDBLPO",
+    "securityName": "Malika Development Bank Limited Promoter Share",
+    "name": "(MDBLPO) Malika Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 275,
+    "symbol": "MLBL1",
+    "securityName": "Mahalaxmi BikasBank Limited",
+    "name": "(MLBL1) Mahalaxmi BikasBank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2925,
+    "symbol": "MLBSL",
+    "securityName": "Mahila Lagubitta Bittiya Sanstha Limited ",
+    "name": "(MLBSL) Mahila Lagubitta Bittiya Sanstha Limited ",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2926,
+    "symbol": "MLBSLP",
+    "securityName": "Mahila Lagubitta Bittiya Sanstha Limited Promoter",
+    "name": "(MLBSLP) Mahila Lagubitta Bittiya Sanstha Limited Promoter",
+    "activeStatus": "D"
+  },
+  {
+    "id": 691,
+    "symbol": "MSMBS",
+    "securityName": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+    "name": "(MSMBS) Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 1736,
+    "symbol": "MSMBSP",
+    "securityName": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(MSMBSP) Mahila Sahayatra Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2768,
+    "symbol": "MSLB",
+    "securityName": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(MSLB) Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2928,
+    "symbol": "MSLBP",
+    "securityName": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd Promoter",
+    "name": "(MSLBP) Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 588,
+    "symbol": "MSBBL",
+    "securityName": "Manaslu Bikas Bank Ltd.",
+    "name": "(MSBBL) Manaslu Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 662,
+    "symbol": "MSBBLP",
+    "securityName": "Manaslu Bikas Bank Ltd. Promoter Share",
+    "name": "(MSBBLP) Manaslu Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 516,
+    "symbol": "MFIL",
+    "securityName": "Manjushree Finance Ltd.",
+    "name": "(MFIL) Manjushree Finance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 730,
+    "symbol": "MFILPO",
+    "securityName": "Manjushree Finance Ltd. Promoter Share",
+    "name": "(MFILPO) Manjushree Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2932,
+    "symbol": "MFLD85",
+    "securityName": "9.5% Manjushree Finance Limited Debenture 2085",
+    "name": "(MFLD85) 9.5% Manjushree Finance Limited Debenture 2085",
+    "activeStatus": "A"
+  },
+  {
+    "id": 595,
+    "symbol": "MTBL",
+    "securityName": "Matribhumi Development Bank Ltd.",
+    "name": "(MTBL) Matribhumi Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 657,
+    "symbol": "MEGAPO",
+    "securityName": "Mega  Bank Nepal Ltd. Promoter Share",
+    "name": "(MEGAPO) Mega  Bank Nepal Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 562,
+    "symbol": "MEGA",
+    "securityName": "Mega  Bank Nepal Ltd.",
+    "name": "(MEGA) Mega  Bank Nepal Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 1741,
+    "symbol": "MERO",
+    "securityName": "Mero Microfinance Bittiya Sanstha Ltd.",
+    "name": "(MERO) Mero Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 1742,
+    "symbol": "MEROPO",
+    "securityName": "Mero Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(MEROPO) Mero Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 513,
+    "symbol": "METRO",
+    "securityName": "Metro Development Bank Limited",
+    "name": "(METRO) Metro Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 682,
+    "symbol": "MMFDB",
+    "securityName": "Mirmire Microfinance Development Bank Ltd.",
+    "name": "(MMFDB) Mirmire Microfinance Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 711,
+    "symbol": "MMFDBP",
+    "securityName": "Mirmire Microfinance Development Bank Ltd. Promoter Share",
+    "name": "(MMFDBP) Mirmire Microfinance Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 665,
+    "symbol": "MIDBLP",
+    "securityName": "Mission Development Bank Ltd. Promoter Share",
+    "name": "(MIDBLP) Mission Development Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 570,
+    "symbol": "MIDBL",
+    "securityName": "Mission Development Bank Ltd.",
+    "name": "(MIDBL) Mission Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 609,
+    "symbol": "MDBPO",
+    "securityName": "Miteri Development Bank Ltd. Promoter Share",
+    "name": "(MDBPO) Miteri Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 371,
+    "symbol": "MDB",
+    "securityName": "Miteri Development Bank Limited",
+    "name": "(MDB) Miteri Development Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 601,
+    "symbol": "MLBBL",
+    "securityName": "Mithila LaghuBitta Bittiya Sanstha Limited",
+    "name": "(MLBBL) Mithila LaghuBitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 707,
+    "symbol": "MLBBLP",
+    "securityName": "Mithila LaghuBitta Bikas Bank Ltd. Promoter Share",
+    "name": "(MLBBLP) Mithila LaghuBitta Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 193,
+    "symbol": "MSM",
+    "securityName": "Morang Sugar Mills Limited",
+    "name": "(MSM) Morang Sugar Mills Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 614,
+    "symbol": "MMDBL",
+    "securityName": "Mount Makalu Development Bank Ltd.",
+    "name": "(MMDBL) Mount Makalu Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 724,
+    "symbol": "MMDBLP",
+    "securityName": "Mount Makalu Development Bank Ltd. Promoter Share",
+    "name": "(MMDBLP) Mount Makalu Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2913,
+    "symbol": "MEN",
+    "securityName": "Mountain Energy Nepal Limited",
+    "name": "(MEN) Mountain Energy Nepal Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2811,
+    "symbol": "MHNL",
+    "securityName": "Mountain Hydro Nepal Limited",
+    "name": "(MHNL) Mountain Hydro Nepal Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 474,
+    "symbol": "MNBBL",
+    "securityName": "Muktinath Bikas Bank Ltd.",
+    "name": "(MNBBL) Muktinath Bikas Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 640,
+    "symbol": "MNBBLP",
+    "securityName": "Muktinath Bikas Bank Ltd. Promoter Share",
+    "name": "(MNBBLP) Muktinath Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 1737,
+    "symbol": "MPFLPO",
+    "securityName": "Multipurpose Finance Company  Limited Promoter Share",
+    "name": "(MPFLPO) Multipurpose Finance Company  Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 471,
+    "symbol": "MPFL",
+    "securityName": "Multipurpose Finance Company  Limited",
+    "name": "(MPFL) Multipurpose Finance Company  Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 131,
+    "symbol": "NABIL",
+    "securityName": "Nabil Bank Limited",
+    "name": "(NABIL) Nabil Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 282,
+    "symbol": "NABILP",
+    "securityName": "NABIL Bank Limited Promotor Share",
+    "name": "(NABILP) NABIL Bank Limited Promotor Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 538,
+    "symbol": "NBF1",
+    "securityName": "Nabil Balance Fund 1",
+    "name": "(NBF1) Nabil Balance Fund 1",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2753,
+    "symbol": "NEF",
+    "securityName": "Nabil Equity Fund",
+    "name": "(NEF) Nabil Equity Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2835,
+    "symbol": "NBF2",
+    "securityName": "NABIL BALANCED FUND-2",
+    "name": "(NBF2) NABIL BALANCED FUND-2",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2892,
+    "symbol": "NBLD82",
+    "securityName": "10% Nabil Debenture 2082",
+    "name": "(NBLD82) 10% Nabil Debenture 2082",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2784,
+    "symbol": "NADEP",
+    "securityName": "Nadep Laghubittiya bittya Sanstha Ltd.",
+    "name": "(NADEP) Nadep Laghubittiya bittya Sanstha Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2785,
+    "symbol": "NADEPP",
+    "securityName": "Nadep Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(NADEPP) Nadep Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 602,
+    "symbol": "NBBL",
+    "securityName": "NagBeli LaghuBitta Bikas Bank Ltd.",
+    "name": "(NBBL) NagBeli LaghuBitta Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 649,
+    "symbol": "NBBLPO",
+    "securityName": "NagBeli LaghuBitta Bikas Bank Ltd. Promoter Share",
+    "name": "(NBBLPO) NagBeli LaghuBitta Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 571,
+    "symbol": "NBSL",
+    "securityName": "Namaste Bittiya Sanstha Ltd.",
+    "name": "(NBSL) Namaste Bittiya Sanstha Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 667,
+    "symbol": "NBSLPO",
+    "securityName": "Namaste Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(NBSLPO) Namaste Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 172,
+    "symbol": "NABBC",
+    "securityName": "Narayani Development Bank Limited",
+    "name": "(NABBC) Narayani Development Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 214,
+    "symbol": "NFL",
+    "securityName": "Narayani Finance Ltd.",
+    "name": "(NFL) Narayani Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 199,
+    "symbol": "NNFC",
+    "securityName": "Narayani National Finance Limited",
+    "name": "(NNFC) Narayani National Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 395,
+    "symbol": "NNFCPO",
+    "securityName": "Narayani National Finance Company Limited Promoter Share",
+    "name": "(NNFCPO) Narayani National Finance Company Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 152,
+    "symbol": "NHPC",
+    "securityName": "National Hydro Power Company Limited",
+    "name": "(NHPC) National Hydro Power Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 178,
+    "symbol": "NLICL",
+    "securityName": "National Life Insurance Co. Ltd.",
+    "name": "(NLICL) National Life Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 582,
+    "symbol": "NLICLP",
+    "securityName": "National Life Insurance Co. Ltd. Promoter Share",
+    "name": "(NLICLP) National Life Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 534,
+    "symbol": "00002",
+    "securityName": "National Life Insurance Co. Ltd. Promoter Share",
+    "name": "(00002) National Life Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "I"
+  },
+  {
+    "id": 2746,
+    "symbol": "NMFBS",
+    "securityName": "National Microfinance Bittiya Sanstha Ltd.",
+    "name": "(NMFBS) National Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2747,
+    "symbol": "NMFBSP",
+    "securityName": "National Microfinance Bittiya Sanstha Ltd. Promoter",
+    "name": "(NMFBSP) National Microfinance Bittiya Sanstha Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 150,
+    "symbol": "ESC",
+    "securityName": "National Pro. And Eco. Dev. Centre",
+    "name": "(ESC) National Pro. And Eco. Dev. Centre",
+    "activeStatus": "D"
+  },
+  {
+    "id": 248,
+    "symbol": "NDFL",
+    "securityName": "Nava Durga Finance Co. Ltd.",
+    "name": "(NDFL) Nava Durga Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 615,
+    "symbol": "NILPO",
+    "securityName": "Neco Insurace Co. Ltd. Promoter",
+    "name": "(NILPO) Neco Insurace Co. Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 183,
+    "symbol": "NIL",
+    "securityName": "Neco Insurance Co. Ltd.",
+    "name": "(NIL) Neco Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 212,
+    "symbol": "NABB",
+    "securityName": "Nepal Aawas Finance Limited",
+    "name": "(NABB) Nepal Aawas Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 363,
+    "symbol": "NABBPO",
+    "securityName": "Nepal Aawas Finance Limited Promoter Share",
+    "name": "(NABBPO) Nepal Aawas Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2816,
+    "symbol": "NAGRO",
+    "securityName": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
+    "name": "(NAGRO) Nepal Agro Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2817,
+    "symbol": "NAGROP",
+    "securityName": "Nepal Agro Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(NAGROP) Nepal Agro Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 380,
+    "symbol": "NBBPO",
+    "securityName": "Nepal Bangladesh Bank Limited Promoter Share",
+    "name": "(NBBPO) Nepal Bangladesh Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 136,
+    "symbol": "NBB",
+    "securityName": "Nepal Bangladesh Bank Limited",
+    "name": "(NBB) Nepal Bangladesh Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2854,
+    "symbol": "NBBD2085",
+    "securityName": "10.25% NBBL Debenture 2085",
+    "name": "(NBBD2085) 10.25% NBBL Debenture 2085",
+    "activeStatus": "A"
+  },
+  {
+    "id": 241,
+    "symbol": "NBFL",
+    "securityName": "Nepal Bangladesh Finance & Leasing Co. Ltd.",
+    "name": "(NBFL) Nepal Bangladesh Finance & Leasing Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 517,
+    "symbol": "NBL",
+    "securityName": "Nepal Bank Limited",
+    "name": "(NBL) Nepal Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 233,
+    "symbol": "NBBU",
+    "securityName": "Nepal Bitumin And Barrel Udhyog Limited",
+    "name": "(NBBU) Nepal Bitumin And Barrel Udhyog Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 157,
+    "symbol": "NBCK",
+    "securityName": "Nepal Byapar Bikash Company(Koshi) Limited",
+    "name": "(NBCK) Nepal Byapar Bikash Company(Koshi) Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 598,
+    "symbol": "NCDB",
+    "securityName": "Nepal Community Development Bank Ltd.",
+    "name": "(NCDB) Nepal Community Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 699,
+    "symbol": "NCDBPO",
+    "securityName": "Nepal Community Development Bank Ltd. Promoter Share",
+    "name": "(NCDBPO) Nepal Community Development Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 506,
+    "symbol": "NCDBL",
+    "securityName": "Nepal Consumer Development Bank Ltd.",
+    "name": "(NCDBL) Nepal Consumer Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 144,
+    "symbol": "NCCB",
+    "securityName": "Nepal Credit And Commercial Bank Limited",
+    "name": "(NCCB) Nepal Credit And Commercial Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 312,
+    "symbol": "RMBFPO",
+    "securityName": "Royal Merchant Bank & Finance Co. Ltd. Promoter Share",
+    "name": "(RMBFPO) Royal Merchant Bank & Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 327,
+    "symbol": "NCCBPO",
+    "securityName": "Nepal Credit & Commercial Bank Ltd. Promoter Share",
+    "name": "(NCCBPO) Nepal Credit & Commercial Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2936,
+    "symbol": "NCCD86",
+    "securityName": "9.5% NCC Debenture 2086",
+    "name": "(NCCD86) 9.5% NCC Debenture 2086",
+    "activeStatus": "A"
+  },
+  {
+    "id": 161,
+    "symbol": "NDB",
+    "securityName": "Nepal Development Bank Limited",
+    "name": "(NDB) Nepal Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 295,
+    "symbol": "NDBPO",
+    "securityName": "Nepal Development Bank Limited Promoter Share",
+    "name": "(NDBPO) Nepal Development Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 307,
+    "symbol": "NTC",
+    "securityName": "Nepal Doorsanchar Comapany Limited",
+    "name": "(NTC) Nepal Doorsanchar Comapany Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 458,
+    "symbol": "NEFLPO",
+    "securityName": "Nepal Express Finance Limited Promoter Share",
+    "name": "(NEFLPO) Nepal Express Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 278,
+    "symbol": "NEFL",
+    "securityName": "Nepal Express Finance Ltd.",
+    "name": "(NEFL) Nepal Express Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 151,
+    "symbol": "NFD",
+    "securityName": "Nepal Film Development Company Limited",
+    "name": "(NFD) Nepal Film Development Company Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 194,
+    "symbol": "NFS",
+    "securityName": "Nepal Finance Ltd.",
+    "name": "(NFS) Nepal Finance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 651,
+    "symbol": "NFSPO",
+    "securityName": "Nepal Finance Ltd. Promoter Share",
+    "name": "(NFSPO) Nepal Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 225,
+    "symbol": "NHMF",
+    "securityName": "Nepal Housing & Merchant Finance Ltd.",
+    "name": "(NHMF) Nepal Housing & Merchant Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 318,
+    "symbol": "NHMFPO",
+    "securityName": "Nepal Housing & Merchant Co. Ltd. Promoter Share",
+    "name": "(NHMFPO) Nepal Housing & Merchant Co. Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2769,
+    "symbol": "NHDL",
+    "securityName": "Nepal Hydro Developers Ltd.",
+    "name": "(NHDL) Nepal Hydro Developers Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2919,
+    "symbol": "NIFRA",
+    "securityName": "Nepal Infrastructure Bank Limited",
+    "name": "(NIFRA) Nepal Infrastructure Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2920,
+    "symbol": "NIFRAP",
+    "securityName": "Nepal Infrastructure Bank Limited Promoter",
+    "name": "(NIFRAP) Nepal Infrastructure Bank Limited Promoter",
+    "activeStatus": "D"
+  },
+  {
+    "id": 176,
+    "symbol": "NICL",
+    "securityName": "Nepal Insurance Co. Ltd.",
+    "name": "(NICL) Nepal Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 689,
+    "symbol": "NICLPO",
+    "securityName": "Nepal Insurance Co. Ltd Promoter Share",
+    "name": "(NICLPO) Nepal Insurance Co. Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2931,
+    "symbol": "NIBD84",
+    "securityName": "8.5% Nepal Investment Bank Debenture 2084",
+    "name": "(NIBD84) 8.5% Nepal Investment Bank Debenture 2084",
+    "activeStatus": "A"
+  },
+  {
+    "id": 4949,
+    "symbol": "NIBSF2",
+    "securityName": "NIBL Samriddhi Fund -2",
+    "name": "(NIBSF2) NIBL Samriddhi Fund -2",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2851,
+    "symbol": "NIBD2082",
+    "securityName": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+    "name": "(NIBD2082) 10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2755,
+    "symbol": "NIBLPF",
+    "securityName": "NIBL Pragati Fund",
+    "name": "(NIBLPF) NIBL Pragati Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 636,
+    "symbol": "NIBSF1",
+    "securityName": "NIBL Samriddhi Fund 1",
+    "name": "(NIBSF1) NIBL Samriddhi Fund 1",
+    "activeStatus": "A"
+  },
+  {
+    "id": 469,
+    "symbol": "NIBPO",
+    "securityName": "Nepal Investment Bank Ltd. Promoter Share",
+    "name": "(NIBPO) Nepal Investment Bank Ltd. Promoter Share",
+    "activeStatus": "S"
+  },
+  {
+    "id": 132,
+    "symbol": "NIB",
+    "securityName": "Nepal Investment Bank Limited",
+    "name": "(NIB) Nepal Investment Bank Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 222,
+    "symbol": "NKU",
+    "securityName": "Nepal Khadya Udhyog Limited",
+    "name": "(NKU) Nepal Khadya Udhyog Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 589,
+    "symbol": "NLICP",
+    "securityName": "Nepal Life Insurance Co. Ltd. Promoter",
+    "name": "(NLICP) Nepal Life Insurance Co. Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 187,
+    "symbol": "NLIC",
+    "securityName": "Nepal Life Insurance Co. Ltd.",
+    "name": "(NLIC) Nepal Life Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 198,
+    "symbol": "NLO",
+    "securityName": "Nepal Lube Oil Limited",
+    "name": "(NLO) Nepal Lube Oil Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2881,
+    "symbol": "NRIC",
+    "securityName": "Nepal Reinsurance Company Limited",
+    "name": "(NRIC) Nepal Reinsurance Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2884,
+    "symbol": "NRICP",
+    "securityName": "Nepal Reinsurance Company Limited Promoter Share",
+    "name": "(NRICP) Nepal Reinsurance Company Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2890,
+    "symbol": "SBIBD86",
+    "securityName": "10% Nepal SBI Bank Debenture 2086",
+    "name": "(SBIBD86) 10% Nepal SBI Bank Debenture 2086",
+    "activeStatus": "A"
+  },
+  {
+    "id": 135,
+    "symbol": "SBI",
+    "securityName": "Nepal SBI Bank Limited",
+    "name": "(SBI) Nepal SBI Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 347,
+    "symbol": "SBIPO",
+    "securityName": "Nepal SBI Bank Ltd. Promoter Share",
+    "name": "(SBIPO) Nepal SBI Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2781,
+    "symbol": "NSEWA",
+    "securityName": "Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(NSEWA) Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2782,
+    "symbol": "NSEWAP",
+    "securityName": "Nepal Seva Laghubitta Bittiya Sanstha Ltd. promoter share",
+    "name": "(NSEWAP) Nepal Seva Laghubitta Bittiya Sanstha Ltd. promoter share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 200,
+    "symbol": "NSM",
+    "securityName": "Nepal Share Markets Ltd.",
+    "name": "(NSM) Nepal Share Markets Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 313,
+    "symbol": "NSMPO",
+    "securityName": "Nepal Share Markets Limited Promoter Share",
+    "name": "(NSMPO) Nepal Share Markets Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 246,
+    "symbol": "NSLMB",
+    "securityName": "Nepal Shree Lanka Merchant Banking & Finance Ltd",
+    "name": "(NSLMB) Nepal Shree Lanka Merchant Banking & Finance Ltd",
+    "activeStatus": "D"
+  },
+  {
+    "id": 158,
+    "symbol": "NTL",
+    "securityName": "Nepal Tading Limited",
+    "name": "(NTL) Nepal Tading Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 201,
+    "symbol": "NVG",
+    "securityName": "Nepal Vanaspati Ghee Udhyog Limited",
+    "name": "(NVG) Nepal Vanaspati Ghee Udhyog Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 159,
+    "symbol": "NWC",
+    "securityName": "Nepal Welfare Company Limited",
+    "name": "(NWC) Nepal Welfare Company Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 396,
+    "symbol": "NLBBL",
+    "securityName": "Nerude Laghubita Bikas Bank Limited",
+    "name": "(NLBBL) Nerude Laghubita Bikas Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 661,
+    "symbol": "NLBBLP",
+    "securityName": "Nerude Laghubita Bikas Bank Limited Promoter Share",
+    "name": "(NLBBLP) Nerude Laghubita Bikas Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2743,
+    "symbol": "NGPL",
+    "securityName": "Ngadi Group Power Ltd.",
+    "name": "(NGPL) Ngadi Group Power Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 309,
+    "symbol": "NICAP",
+    "securityName": "NIC Asia Bank Limted Promoter Share",
+    "name": "(NICAP) NIC Asia Bank Limted Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 139,
+    "symbol": "NICA",
+    "securityName": "NIC Asia Bank Ltd.",
+    "name": "(NICA) NIC Asia Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2825,
+    "symbol": "NICAD 85/86",
+    "securityName": "10% NIC Asia Debenture 2085/86",
+    "name": "(NICAD 85/86) 10% NIC Asia Debenture 2085/86",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2779,
+    "symbol": "NICGF",
+    "securityName": "NIC Asia Growth Fund",
+    "name": "(NICGF) NIC Asia Growth Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2868,
+    "symbol": "NICD83/84",
+    "securityName": "10.25% NIC Asia Debenture 2083/84",
+    "name": "(NICD83/84) 10.25% NIC Asia Debenture 2083/84",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2869,
+    "symbol": "NICAD8283",
+    "securityName": "11% NIC Asia Debenture 082/83",
+    "name": "(NICAD8283) 11% NIC Asia Debenture 082/83",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2895,
+    "symbol": "NICAD8182",
+    "securityName": "9% NIC Asia Debenture 2081/82",
+    "name": "(NICAD8182) 9% NIC Asia Debenture 2081/82",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2863,
+    "symbol": "NICBF",
+    "securityName": "NIC Asia Balanced Fund",
+    "name": "(NICBF) NIC Asia Balanced Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2887,
+    "symbol": "NICLBSL",
+    "securityName": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
+    "name": "(NICLBSL) NIC ASIA Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2888,
+    "symbol": "NICLBSLP",
+    "securityName": "NIC ASIA Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(NICLBSLP) NIC ASIA Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 196,
+    "symbol": "NCM",
+    "securityName": "NIDC Capital Markets Ltd.",
+    "name": "(NCM) NIDC Capital Markets Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 269,
+    "symbol": "NCMMF",
+    "securityName": "NCM Mutual Fund",
+    "name": "(NCMMF) NCM Mutual Fund",
+    "activeStatus": "D"
+  },
+  {
+    "id": 501,
+    "symbol": "NCMPO",
+    "securityName": "NIDC Capital Markets Ltd. Promoter Share",
+    "name": "(NCMPO) NIDC Capital Markets Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 160,
+    "symbol": "NIDC",
+    "securityName": "NIDC Development Bank Ltd.",
+    "name": "(NIDC) NIDC Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 658,
+    "symbol": "NIDCPO",
+    "securityName": "NIDC Development Bank Ltd. Promoter Share",
+    "name": "(NIDCPO) NIDC Development Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 394,
+    "symbol": "NGBL",
+    "securityName": "Nilgiri Bikas Bank Limited",
+    "name": "(NGBL) Nilgiri Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 163,
+    "symbol": "NUBL",
+    "securityName": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+    "name": "(NUBL) Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 672,
+    "symbol": "NUBLPO",
+    "securityName": "Nirdhan Utthan Bank Limited Promoter Share",
+    "name": "(NUBLPO) Nirdhan Utthan Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 684,
+    "symbol": "NLGPO",
+    "securityName": "NLG Insurance Company Ltd. Promoter Share",
+    "name": "(NLGPO) NLG Insurance Company Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 559,
+    "symbol": "NLG",
+    "securityName": "NLG Insurance Company Ltd.",
+    "name": "(NLG) NLG Insurance Company Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 704,
+    "symbol": "NMBMF",
+    "securityName": "NMB  Microfinance Bittiya Sanstha Ltd.",
+    "name": "(NMBMF) NMB  Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 723,
+    "symbol": "NMBMFP",
+    "securityName": "NMB  Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(NMBMFP) NMB  Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 629,
+    "symbol": "NMBSF1",
+    "securityName": "NMB Sulav Investment Fund-1",
+    "name": "(NMBSF1) NMB Sulav Investment Fund-1",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2752,
+    "symbol": "NMBHF1",
+    "securityName": "NMB Hybrid Fund L-1",
+    "name": "(NMBHF1) NMB Hybrid Fund L-1",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2850,
+    "symbol": "NMBD2085",
+    "securityName": "10 % NMB DEBENTURE 2085",
+    "name": "(NMBD2085) 10 % NMB DEBENTURE 2085",
+    "activeStatus": "A"
+  },
+  {
+    "id": 238,
+    "symbol": "NMB",
+    "securityName": "NMB Bank Limited",
+    "name": "(NMB) NMB Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 391,
+    "symbol": "NMBPO",
+    "securityName": "NMB Bank Limited Promoter Share",
+    "name": "(NMBPO) NMB Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2867,
+    "symbol": "NMB50",
+    "securityName": "NMB 50",
+    "name": "(NMB50) NMB 50",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2898,
+    "symbol": "NRN",
+    "securityName": "NRN Infrastructure and Development Limited",
+    "name": "(NRN) NRN Infrastructure and Development Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2899,
+    "symbol": "NRNP",
+    "securityName": "NRN Infrastructure and Development Limited Promoter Share",
+    "name": "(NRNP) NRN Infrastructure and Development Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 398,
+    "symbol": "ODBL",
+    "securityName": "Om Development Bank Ltd.",
+    "name": "(ODBL) Om Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 568,
+    "symbol": "ODBLPO",
+    "securityName": "Om Development Bank Ltd. Promoter",
+    "name": "(ODBLPO) Om Development Bank Ltd. Promoter",
+    "activeStatus": "D"
+  },
+  {
+    "id": 475,
+    "symbol": "OFLPO",
+    "securityName": "Om Finance Limited Promoter Share",
+    "name": "(OFLPO) Om Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 252,
+    "symbol": "OFL",
+    "securityName": "Om Finance Ltd.",
+    "name": "(OFL) Om Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 149,
+    "symbol": "OHL",
+    "securityName": "Oriental Hotels Limited",
+    "name": "(OHL) Oriental Hotels Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 512,
+    "symbol": "PADBL",
+    "securityName": "Pacific Development Bank Limited",
+    "name": "(PADBL) Pacific Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 675,
+    "symbol": "PADBLP",
+    "securityName": "Pacific Development Bank Ltd. Promoter Share",
+    "name": "(PADBLP) Pacific Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2786,
+    "symbol": "PMHPL",
+    "securityName": "Panchakanya Mai Hydropower Ltd",
+    "name": "(PMHPL) Panchakanya Mai Hydropower Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2813,
+    "symbol": "PPCL",
+    "securityName": "Panchthar Power Compant Limited",
+    "name": "(PPCL) Panchthar Power Compant Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 165,
+    "symbol": "PDBL",
+    "securityName": "Paschimanchal Bikash Bank Limited",
+    "name": "(PDBL) Paschimanchal Bikash Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 234,
+    "symbol": "PFC",
+    "securityName": "Paschimanchal Finance Co. Ltd.",
+    "name": "(PFC) Paschimanchal Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 645,
+    "symbol": "PFCPO",
+    "securityName": "Paschimanchal Finance Co. Ltd. Promoter Share",
+    "name": "(PFCPO) Paschimanchal Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 266,
+    "symbol": "PFLBS",
+    "securityName": "Patan Finance Limited",
+    "name": "(PFLBS) Patan Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 306,
+    "symbol": "PFLBSP",
+    "securityName": "Patan Finance Limited Promoter Share",
+    "name": "(PFLBSP) Patan Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 383,
+    "symbol": "PBSL",
+    "securityName": "Pathibhara Bikas Bank Limited",
+    "name": "(PBSL) Pathibhara Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 206,
+    "symbol": "PFCL",
+    "securityName": "Peoples Finance Ltd.",
+    "name": "(PFCL) Peoples Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 304,
+    "symbol": "PFCLPO",
+    "securityName": "Peoples Finance Limited Promoter Share",
+    "name": "(PFCLPO) Peoples Finance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 236,
+    "symbol": "PFL",
+    "securityName": "Pokhara Finance Ltd.",
+    "name": "(PFL) Pokhara Finance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 390,
+    "symbol": "PFLPO",
+    "securityName": "Pokhara Finance Company Limited Promoter Share",
+    "name": "(PFLPO) Pokhara Finance Company Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 255,
+    "symbol": "PRVU",
+    "securityName": "Prabhu  Bank Limited",
+    "name": "(PRVU) Prabhu  Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 287,
+    "symbol": "KISTPO",
+    "securityName": "KIST Bank Limited Promoter Share",
+    "name": "(KISTPO) KIST Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 488,
+    "symbol": "PRFLPO",
+    "securityName": "Prabhu Finance Ltd. Promoter Share",
+    "name": "(PRFLPO) Prabhu Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 632,
+    "symbol": "PRVUPO",
+    "securityName": "Prabhu  Bank Limited Promoter Share",
+    "name": "(PRVUPO) Prabhu  Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2875,
+    "symbol": "PBLD86",
+    "securityName": "10.25% Prabhu Bank  Debenture 2086",
+    "name": "(PBLD86) 10.25% Prabhu Bank  Debenture 2086",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2904,
+    "symbol": "PBLD84",
+    "securityName": "10% Prabhu Bank Debenture 2084 ",
+    "name": "(PBLD84) 10% Prabhu Bank Debenture 2084 ",
+    "activeStatus": "A"
+  },
+  {
+    "id": 4947,
+    "symbol": "PSF",
+    "securityName": "Prabhu Select Fund",
+    "name": "(PSF) Prabhu Select Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 308,
+    "symbol": "PRBBL",
+    "securityName": "Prabhu Bikas Bank Limited",
+    "name": "(PRBBL) Prabhu Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 184,
+    "symbol": "PRIN",
+    "securityName": "Prabhu Insurance Ltd.",
+    "name": "(PRIN) Prabhu Insurance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 590,
+    "symbol": "PRINPO",
+    "securityName": "Prabhu Insurance Company Ltd. Promoter",
+    "name": "(PRINPO) Prabhu Insurance Company Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2915,
+    "symbol": "PLI",
+    "securityName": "Prabhu Life Insurance Limited",
+    "name": "(PLI) Prabhu Life Insurance Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2916,
+    "symbol": "PLIP",
+    "securityName": "Prabhu Life Insurance Limited Promoter Share",
+    "name": "(PLIP) Prabhu Life Insurance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 247,
+    "symbol": "PFCLL",
+    "securityName": "Premier Finance Co. Ltd.",
+    "name": "(PFCLL) Premier Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 182,
+    "symbol": "PIC",
+    "securityName": "Premier Insurance Co. Ltd.",
+    "name": "(PIC) Premier Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 713,
+    "symbol": "PICPO",
+    "securityName": "Premier Insurance Co. Ltd. Promoter Share",
+    "name": "(PICPO) Premier Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 357,
+    "symbol": "PCBL",
+    "securityName": "Prime Commercial Bank Ltd.",
+    "name": "(PCBL) Prime Commercial Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 544,
+    "symbol": "PCBLP",
+    "securityName": "Prime Commercial Bank Promoter Share",
+    "name": "(PCBLP) Prime Commercial Bank Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 701,
+    "symbol": "PLICPO",
+    "securityName": "Prime Life Insurance Company Limited Promoter Share",
+    "name": "(PLICPO) Prime Life Insurance Company Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 393,
+    "symbol": "PLIC",
+    "securityName": "Prime Life Insurance Company Limited",
+    "name": "(PLIC) Prime Life Insurance Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 446,
+    "symbol": "PRBL",
+    "securityName": "Professional Bikas Bank Ltd.",
+    "name": "(PRBL) Professional Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 668,
+    "symbol": "PRDBLP",
+    "securityName": "Professional Diyalo Bikas Bank Ltd. Promoter Share",
+    "name": "(PRDBLP) Professional Diyalo Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 414,
+    "symbol": "PRDBL",
+    "securityName": "Professional Diyalo Bikas Bank Ltd.",
+    "name": "(PRDBL) Professional Diyalo Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 338,
+    "symbol": "PROFL",
+    "securityName": "ProgressiveFinance Limited",
+    "name": "(PROFL) ProgressiveFinance Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 354,
+    "symbol": "PROFLP",
+    "securityName": "Progressive Finance Limited Promoter Share",
+    "name": "(PROFLP) Progressive Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 260,
+    "symbol": "PFIL",
+    "securityName": "Prudential Finance Company Limited",
+    "name": "(PFIL) Prudential Finance Company Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 604,
+    "symbol": "PFILPO",
+    "securityName": "Prudential Finance Co. Ltd. Promoter",
+    "name": "(PFILPO) Prudential Finance Co. Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 648,
+    "symbol": "PICLPO",
+    "securityName": "Prudential Insurance Co. Ltd. Promoter Share",
+    "name": "(PICLPO) Prudential Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 189,
+    "symbol": "PICL",
+    "securityName": "Prudential Insurance Co. Ltd.",
+    "name": "(PICL) Prudential Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 367,
+    "symbol": "PDB",
+    "securityName": "Public Development Bank Limited",
+    "name": "(PDB) Public Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 714,
+    "symbol": "PURBLP",
+    "securityName": "Purnima Bikas Bank Ltd. Promoter Share",
+    "name": "(PURBLP) Purnima Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 451,
+    "symbol": "PURBL",
+    "securityName": "Purnima Bikas Bank Ltd.",
+    "name": "(PURBL) Purnima Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 340,
+    "symbol": "PGBL",
+    "securityName": "Purwanchal Grameen Bikash Bank Limited",
+    "name": "(PGBL) Purwanchal Grameen Bikash Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2776,
+    "symbol": "RADHI",
+    "securityName": "Radhi Bidyut Company Ltd",
+    "name": "(RADHI) Radhi Bidyut Company Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 203,
+    "symbol": "RJM",
+    "securityName": "Raghupati Jute Mills Limited",
+    "name": "(RJM) Raghupati Jute Mills Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2783,
+    "symbol": "RRHP",
+    "securityName": "Rairang Hydropower Development Company Ltd.",
+    "name": "(RRHP) Rairang Hydropower Development Company Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 679,
+    "symbol": "RBBBL",
+    "securityName": "Raptibheri Bikas Bank Ltd.",
+    "name": "(RBBBL) Raptibheri Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 717,
+    "symbol": "RBBBLP",
+    "securityName": "Raptibheri Bikas Bank Ltd. Promoter Share",
+    "name": "(RBBBLP) Raptibheri Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 460,
+    "symbol": "RARA",
+    "securityName": "Rara Bikas Bank Limited",
+    "name": "(RARA) Rara Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 634,
+    "symbol": "RBCLPO",
+    "securityName": "Rastriya Beema Company Limited Promoter Share",
+    "name": "(RBCLPO) Rastriya Beema Company Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 177,
+    "symbol": "RBCL",
+    "securityName": "Rastriya Beema Company Limited",
+    "name": "(RBCL) Rastriya Beema Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2841,
+    "symbol": "RHPL",
+    "securityName": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+    "name": "(RHPL) RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+    "activeStatus": "A"
+  },
+  {
+    "id": 542,
+    "symbol": "REDBLP",
+    "securityName": "Reliable Development Bank Ltd. Promoter Share",
+    "name": "(REDBLP) Reliable Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 342,
+    "symbol": "REDBL",
+    "securityName": "Reliable Development Bank Limited",
+    "name": "(REDBL) Reliable Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 587,
+    "symbol": "RLFL",
+    "securityName": "Reliance Finance Ltd.",
+    "name": "(RLFL) Reliance Finance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 650,
+    "symbol": "RLFLPO",
+    "securityName": "Reliance Finance Ltd. Promoter Share",
+    "name": "(RLFLPO) Reliance Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2900,
+    "symbol": "RLI",
+    "securityName": "Reliance Life Insurance Limited",
+    "name": "(RLI) Reliance Life Insurance Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2901,
+    "symbol": "RLIP",
+    "securityName": "Reliance Life Insurance Limited Promoter Share",
+    "name": "(RLIP) Reliance Life Insurance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 384,
+    "symbol": "RBSL",
+    "securityName": "Resunga Bikas Bank Limited",
+    "name": "(RBSL) Resunga Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 610,
+    "symbol": "RHPC",
+    "securityName": "Ridi Hydropower Development Company Ltd.",
+    "name": "(RHPC) Ridi Hydropower Development Company Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 514,
+    "symbol": "RDBL",
+    "securityName": "Rising Development Bank Ltd.",
+    "name": "(RDBL) Rising Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 659,
+    "symbol": "RMDCPO",
+    "securityName": "Rural Microfinance Development Centre Ltd. Promoter Share",
+    "name": "(RMDCPO) Rural Microfinance Development Centre Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 575,
+    "symbol": "RMDC",
+    "securityName": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(RMDC) RMDC Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2748,
+    "symbol": "RSDC",
+    "securityName": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(RSDC) RSDC Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2749,
+    "symbol": "RSDCP",
+    "securityName": "RSDC Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(RSDCP) RSDC Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2935,
+    "symbol": "RURU",
+    "securityName": "Ru Ru Jalbidhyut Pariyojana Limited",
+    "name": "(RURU) Ru Ru Jalbidhyut Pariyojana Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2843,
+    "symbol": "SABSL",
+    "securityName": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
+    "name": "(SABSL) SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2844,
+    "symbol": "SABSLP",
+    "securityName": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+    "name": "(SABSLP) SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2896,
+    "symbol": "SDLBSL",
+    "securityName": "Sadhana Laghubitta Bittiya Sanstha Limited",
+    "name": "(SDLBSL) Sadhana Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2897,
+    "symbol": "SDLBSLP",
+    "securityName": "Sadhana Laghubitta Bittiya Sanstha Limited Promoter Shares",
+    "name": "(SDLBSLP) Sadhana Laghubitta Bittiya Sanstha Limited Promoter Shares",
+    "activeStatus": "A"
+  },
+  {
+    "id": 321,
+    "symbol": "SAFL",
+    "securityName": "Sagarmatha  Finance Limited",
+    "name": "(SAFL) Sagarmatha  Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 715,
+    "symbol": "SAFLPO",
+    "securityName": "Sagarmatha  Finance Limited Promoter Share",
+    "name": "(SAFLPO) Sagarmatha  Finance Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 619,
+    "symbol": "SICPO",
+    "securityName": "Sagarmatha Insurance Co. Ltd. Promoter Share",
+    "name": "(SICPO) Sagarmatha Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 185,
+    "symbol": "SIC",
+    "securityName": "Sagarmatha Insurance Co. Ltd.",
+    "name": "(SIC) Sagarmatha Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 625,
+    "symbol": "SHBL",
+    "securityName": "Sahara Bikas Bank Ltd.",
+    "name": "(SHBL) Sahara Bikas Bank Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 732,
+    "symbol": "SHBLPO",
+    "securityName": "Sahara Bikas Bank Ltd. Promoter Share",
+    "name": "(SHBLPO) Sahara Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 479,
+    "symbol": "SBBLJP",
+    "securityName": "Sahayogi Bikas Bank Ltd. Promoter Share",
+    "name": "(SBBLJP) Sahayogi Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 174,
+    "symbol": "SBBLJ",
+    "securityName": "Sahayogi Bikas Bank Limited",
+    "name": "(SBBLJ) Sahayogi Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 1735,
+    "symbol": "SAJHA",
+    "securityName": "Sajha Bikas Bank Ltd.",
+    "name": "(SAJHA) Sajha Bikas Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 1738,
+    "symbol": "SAJHAP",
+    "securityName": "Sajha Bikas Bank Ltd. Promoter Share",
+    "name": "(SAJHAP) Sajha Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 155,
+    "symbol": "STC",
+    "securityName": "Salt Trading Corporation",
+    "name": "(STC) Salt Trading Corporation",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2761,
+    "symbol": "SMATA",
+    "securityName": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+    "name": "(SMATA) Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2762,
+    "symbol": "SMATAP",
+    "securityName": "Samata Gharelu Laghubitta Bittiya Sanstha Limited Promoter",
+    "name": "(SMATAP) Samata Gharelu Laghubitta Bittiya Sanstha Limited Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 221,
+    "symbol": "SFC",
+    "securityName": "Samjhana Finance Co. Ltd.",
+    "name": "(SFC) Samjhana Finance Co. Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 299,
+    "symbol": "SFCPO",
+    "securityName": "Samjhana Finace Co. Ltd. Promoter Share",
+    "name": "(SFCPO) Samjhana Finace Co. Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 297,
+    "symbol": "000011",
+    "securityName": "World Merchant Banking & Finance Limited Promoter Share",
+    "name": "(000011) World Merchant Banking & Finance Limited Promoter Share",
+    "activeStatus": "I"
+  },
+  {
+    "id": 298,
+    "symbol": "SFCLP",
+    "securityName": "Samriddhi Finance Company Limited Promoter Share",
+    "name": "(SFCLP) Samriddhi Finance Company Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 256,
+    "symbol": "SFCL",
+    "securityName": "Samriddhi Finance Company Limited",
+    "name": "(SFCL) Samriddhi Finance Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2804,
+    "symbol": "SLBSL",
+    "securityName": "Samudayik Laghubitta Bittiya Sanstha Limited",
+    "name": "(SLBSL) Samudayik Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2805,
+    "symbol": "SLBSLPO",
+    "securityName": "Samudayik Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(SLBSLPO) Samudayik Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 574,
+    "symbol": "SKBBL",
+    "securityName": "Sana Kisan Bikas Bank Ltd",
+    "name": "(SKBBL) Sana Kisan Bikas Bank Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 671,
+    "symbol": "SKBBLP",
+    "securityName": "Sana Kisan Bikas Bank Ltd Promoter Share",
+    "name": "(SKBBLP) Sana Kisan Bikas Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 171,
+    "symbol": "SANIMA",
+    "securityName": "Sanima Bank Limited",
+    "name": "(SANIMA) Sanima Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 362,
+    "symbol": "SBBLPO",
+    "securityName": "Sanima Bank Ltd. Promoter Share",
+    "name": "(SBBLPO) Sanima Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2828,
+    "symbol": "SAND2085",
+    "securityName": "10% Sanima Bank Limited Debenture",
+    "name": "(SAND2085) 10% Sanima Bank Limited Debenture",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2773,
+    "symbol": "SAEF",
+    "securityName": "Sanima Equity Fund",
+    "name": "(SAEF) Sanima Equity Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2922,
+    "symbol": "SBD87",
+    "securityName": "8.5% Sanima Debenture 2087",
+    "name": "(SBD87) 8.5% Sanima Debenture 2087",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2923,
+    "symbol": "SLCF",
+    "securityName": "Sanima Large Cap Fund",
+    "name": "(SLCF) Sanima Large Cap Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2908,
+    "symbol": "SGI",
+    "securityName": "Sanima General Insurance Limited",
+    "name": "(SGI) Sanima General Insurance Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2909,
+    "symbol": "SGIP",
+    "securityName": "Sanima General Insurance Limited Promoter Share",
+    "name": "(SGIP) Sanima General Insurance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 591,
+    "symbol": "SHPC",
+    "securityName": "Sanima Mai Hydropower Ltd.",
+    "name": "(SHPC) Sanima Mai Hydropower Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2842,
+    "symbol": "SJCL",
+    "securityName": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+    "name": "(SJCL) SANJEN JALAVIDHYUT COMPANY LIMITED",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2860,
+    "symbol": "SAPDBL",
+    "securityName": "Saptakoshi Development Bank Ltd",
+    "name": "(SAPDBL) Saptakoshi Development Bank Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2861,
+    "symbol": "SAPDBLP",
+    "securityName": "Saptakoshi Development Bank Ltd Promoter Share",
+    "name": "(SAPDBLP) Saptakoshi Development Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 1733,
+    "symbol": "SKDBL",
+    "securityName": "Saptakoshi Development Bank Ltd.",
+    "name": "(SKDBL) Saptakoshi Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 1734,
+    "symbol": "SKDBLP",
+    "securityName": "Saptakoshi Development Bank Ltd. Promoter Share",
+    "name": "(SKDBLP) Saptakoshi Development Bank Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 592,
+    "symbol": "SNLB",
+    "securityName": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
+    "name": "(SNLB) Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 643,
+    "symbol": "SNLBP",
+    "securityName": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(SNLBP) Sarathi Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 416,
+    "symbol": "SETI",
+    "securityName": "Seti Finance Limited",
+    "name": "(SETI) Seti Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 560,
+    "symbol": "SETIPO",
+    "securityName": "Seti Finance Ltd. Promoter Share",
+    "name": "(SETIPO) Seti Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 389,
+    "symbol": "SEWA",
+    "securityName": "Sewa Bikas Bank Limited",
+    "name": "(SEWA) Sewa Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 597,
+    "symbol": "SEWAPO",
+    "securityName": "Sewa Bikas Bank Ltd. Promoter",
+    "name": "(SEWAPO) Sewa Bikas Bank Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 472,
+    "symbol": "SADBL",
+    "securityName": "Shangrila Development Bank Ltd.",
+    "name": "(SADBL) Shangrila Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 708,
+    "symbol": "SADBLP",
+    "securityName": "Shangrila Development Bank Ltd. Promoter Share",
+    "name": "(SADBLP) Shangrila Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 345,
+    "symbol": "SBSL",
+    "securityName": "Shikhar Finance Limited",
+    "name": "(SBSL) Shikhar Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 606,
+    "symbol": "SICLPO",
+    "securityName": "Shikhar Insurance Co. Ltd. Promoter",
+    "name": "(SICLPO) Shikhar Insurance Co. Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 192,
+    "symbol": "SICL",
+    "securityName": "Shikhar Insurance Co. Ltd.",
+    "name": "(SICL) Shikhar Insurance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 669,
+    "symbol": "SHINEP",
+    "securityName": "Shine Resunga Development Bank Ltd. Promoter Share",
+    "name": "(SHINEP) Shine Resunga Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 473,
+    "symbol": "SHINE",
+    "securityName": "Shine Resunga Development Bank Ltd.",
+    "name": "(SHINE) Shine Resunga Development Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2907,
+    "symbol": "SSHL",
+    "securityName": "Shiva Shree Hydropower Ltd",
+    "name": "(SSHL) Shiva Shree Hydropower Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2809,
+    "symbol": "SHIVM",
+    "securityName": "SHIVAM CEMENTS LTD",
+    "name": "(SHIVM) SHIVAM CEMENTS LTD",
+    "activeStatus": "A"
+  },
+  {
+    "id": 226,
+    "symbol": "SBPP",
+    "securityName": "Shree Bhrikuti Pulp And Paper Limited",
+    "name": "(SBPP) Shree Bhrikuti Pulp And Paper Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 244,
+    "symbol": "SIFC",
+    "securityName": "Shree Investment Finance Co. Ltd.",
+    "name": "(SIFC) Shree Investment Finance Co. Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 456,
+    "symbol": "SIFCPO",
+    "securityName": "Shree Investment & Finance Co. Ltd. Promoter Share",
+    "name": "(SIFCPO) Shree Investment & Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 230,
+    "symbol": "SRS",
+    "securityName": "Shree Ram Sugar Mills Limited",
+    "name": "(SRS) Shree Ram Sugar Mills Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 261,
+    "symbol": "SFFIL",
+    "securityName": "Shrijana Finance  (Bittaya Sanstha)",
+    "name": "(SFFIL) Shrijana Finance  (Bittaya Sanstha)",
+    "activeStatus": "S"
+  },
+  {
+    "id": 352,
+    "symbol": "SFFILP",
+    "securityName": "Shrijana Finance Ltd. Promoter Share",
+    "name": "(SFFILP) Shrijana Finance Ltd. Promoter Share",
+    "activeStatus": "S"
+  },
+  {
+    "id": 239,
+    "symbol": "SFL",
+    "securityName": "Siddharth Finance Ltd.",
+    "name": "(SFL) Siddharth Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 546,
+    "symbol": "SFLPO",
+    "securityName": "Siddhartha Finance Ltd. Promoter",
+    "name": "(SFLPO) Siddhartha Finance Ltd. Promoter",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2912,
+    "symbol": "SBLD84",
+    "securityName": "8.5% SBL Debenture 2084",
+    "name": "(SBLD84) 8.5% SBL Debenture 2084",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2872,
+    "symbol": "SBLD2082",
+    "securityName": "10.50% SBL Debenture 2082",
+    "name": "(SBLD2082) 10.50% SBL Debenture 2082",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2864,
+    "symbol": "SBLD83",
+    "securityName": "10.25% SBL Debenture 2083",
+    "name": "(SBLD83) 10.25% SBL Debenture 2083",
+    "activeStatus": "A"
+  },
+  {
+    "id": 449,
+    "symbol": "SBLPO",
+    "securityName": "Siddhartha Bank Limited Promoter Share",
+    "name": "(SBLPO) Siddhartha Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 145,
+    "symbol": "SBL",
+    "securityName": "Siddhartha Bank Limited",
+    "name": "(SBL) Siddhartha Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 616,
+    "symbol": "SEOS",
+    "securityName": "Siddhartha Equity Orineted Scheme",
+    "name": "(SEOS) Siddhartha Equity Orineted Scheme",
+    "activeStatus": "S"
+  },
+  {
+    "id": 526,
+    "symbol": "SIGS1",
+    "securityName": "Siddhartha Investment Growth Scheme-1",
+    "name": "(SIGS1) Siddhartha Investment Growth Scheme-1",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2859,
+    "symbol": "SIGS2",
+    "securityName": "Siddhartha Investment Growth Scheme - 2",
+    "name": "(SIGS2) Siddhartha Investment Growth Scheme - 2",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2770,
+    "symbol": "SEF",
+    "securityName": "Siddhartha Equity Fund",
+    "name": "(SEF) Siddhartha Equity Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 692,
+    "symbol": "SBLD78",
+    "securityName": "7.5% sbl debenture",
+    "name": "(SBLD78) 7.5% sbl debenture",
+    "activeStatus": "D"
+  },
+  {
+    "id": 169,
+    "symbol": "SDBL",
+    "securityName": "Siddhartha Development Bank Ltd.",
+    "name": "(SDBL) Siddhartha Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 300,
+    "symbol": "SDBLPO",
+    "securityName": "Siddhartha Development Bank Limited Promoter Share",
+    "name": "(SDBLPO) Siddhartha Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 280,
+    "symbol": "SIL",
+    "securityName": "Siddhartha Insurance Ltd.",
+    "name": "(SIL) Siddhartha Insurance Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 630,
+    "symbol": "SILPO",
+    "securityName": "Siddhartha Insurance Ltd. Promoter Share",
+    "name": "(SILPO) Siddhartha Insurance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 561,
+    "symbol": "SINDU",
+    "securityName": "Sindhu Bikash Bank Ltd",
+    "name": "(SINDU) Sindhu Bikash Bank Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 652,
+    "symbol": "SINDUP",
+    "securityName": "Sindhu Bikas Bank Ltd. Promoter Share",
+    "name": "(SINDUP) Sindhu Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2934,
+    "symbol": "SHEL",
+    "securityName": "Singati Hydro Energy Limited",
+    "name": "(SHEL) Singati Hydro Energy Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 147,
+    "symbol": "SHL",
+    "securityName": "Soaltee Hotel Limited",
+    "name": "(SHL) Soaltee Hotel Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 271,
+    "symbol": "SODBL",
+    "securityName": "Society Development Bank Ltd.",
+    "name": "(SODBL) Society Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 485,
+    "symbol": "SODBLP",
+    "securityName": "Society  Development Bank Limited Promoter Share",
+    "name": "(SODBLP) Society  Development Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2812,
+    "symbol": "SPARS",
+    "securityName": "Sparsha Laghubitta Bittiya Sanstha Limited",
+    "name": "(SPARS) Sparsha Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2814,
+    "symbol": "SPARSPO",
+    "securityName": "Sparsha Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(SPARSPO) Sparsha Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 133,
+    "symbol": "SCB",
+    "securityName": "Standard Chartered Bank Limited",
+    "name": "(SCB) Standard Chartered Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 655,
+    "symbol": "SCBPO",
+    "securityName": "Standard Chartered Bank Limited Promoter Share",
+    "name": "(SCBPO) Standard Chartered Bank Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 251,
+    "symbol": "STFL",
+    "securityName": "Standard Finance Ltd.",
+    "name": "(STFL) Standard Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 404,
+    "symbol": "STFLPO",
+    "securityName": "Standard Finance Limited Promoter Share",
+    "name": "(STFLPO) Standard Finance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 411,
+    "symbol": "SLFL",
+    "securityName": "Subha Laxmi Finance Co. Ltd.",
+    "name": "(SLFL) Subha Laxmi Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 556,
+    "symbol": "SUBBLP",
+    "securityName": "Subbecha Bikas Bank Ltd. Promoter Share",
+    "name": "(SUBBLP) Subbecha Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 331,
+    "symbol": "SUBBL",
+    "securityName": "Subhechha Bikas Bank Limited",
+    "name": "(SUBBL) Subhechha Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 663,
+    "symbol": "SMFDBP",
+    "securityName": "Summit Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(SMFDBP) Summit Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 502,
+    "symbol": "SMFDB",
+    "securityName": "Summit Laghubitta Bittiya Sanstha Limited",
+    "name": "(SMFDB) Summit Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 359,
+    "symbol": "SRBL",
+    "securityName": "Sunrise Bank Limited",
+    "name": "(SRBL) Sunrise Bank Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 522,
+    "symbol": "SRBLPO",
+    "securityName": "Sunrise Bank Ltd Promoter Share",
+    "name": "(SRBLPO) Sunrise Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2834,
+    "symbol": "SRD80",
+    "securityName": "10% Sunrise Debenture 2080",
+    "name": "(SRD80) 10% Sunrise Debenture 2080",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2877,
+    "symbol": "SFMF",
+    "securityName": "Sunrise First Mutual Fund",
+    "name": "(SFMF) Sunrise First Mutual Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2878,
+    "symbol": "SRBLD83",
+    "securityName": "10.25% Sunrise Bank Debenture 2083",
+    "name": "(SRBLD83) 10.25% Sunrise Bank Debenture 2083",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2937,
+    "symbol": "SBCF",
+    "securityName": "Sunrise Bluechip Fund",
+    "name": "(SBCF) Sunrise Bluechip Fund",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2771,
+    "symbol": "SMB",
+    "securityName": "Support Microfinance Bittiya Sanstha Ltd.",
+    "name": "(SMB) Support Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2772,
+    "symbol": "SMBPO",
+    "securityName": "Support Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(SMBPO) Support Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 463,
+    "symbol": "SUPRMP",
+    "securityName": "Supreme Development Bank Ltd. Promoter Share",
+    "name": "(SUPRMP) Supreme Development Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 267,
+    "symbol": "SUPRME",
+    "securityName": "Supreme Development Bank Ltd.",
+    "name": "(SUPRME) Supreme Development Bank Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 403,
+    "symbol": "SLICL",
+    "securityName": "Surya Life Insurance Company Limited",
+    "name": "(SLICL) Surya Life Insurance Company Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 581,
+    "symbol": "SLICLP",
+    "securityName": "Surya Life Insurance Co. Ltd. Promoter Share",
+    "name": "(SLICLP) Surya Life Insurance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 407,
+    "symbol": "SDFL",
+    "securityName": "Suryadarshan Finance Company Limited",
+    "name": "(SDFL) Suryadarshan Finance Company Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2750,
+    "symbol": "SLBS",
+    "securityName": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(SLBS) Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2911,
+    "symbol": "SLBSP",
+    "securityName": "SURYODAYA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+    "name": "(SLBSP) SURYODAYA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE",
+    "activeStatus": "A"
+  },
+  {
+    "id": 268,
+    "symbol": "SWBBL",
+    "securityName": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+    "name": "(SWBBL) Swabalamban Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 314,
+    "symbol": "SWBBLP",
+    "securityName": "Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(SWBBLP) Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2829,
+    "symbol": "SMFBS",
+    "securityName": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
+    "name": "(SMFBS) Swabhimaan Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2830,
+    "symbol": "SMFBSP",
+    "securityName": "Swabhimaan Laghubitta Bittiya Sanstha LTD Promoter share",
+    "name": "(SMFBSP) Swabhimaan Laghubitta Bittiya Sanstha LTD Promoter share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2764,
+    "symbol": "SDESI",
+    "securityName": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
+    "name": "(SDESI) Swadeshi Laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2891,
+    "symbol": "SDESIP",
+    "securityName": "SWADESHI LAGHUBITTA BITTIYA SANSTHA LIMITED - PROMOTER SHARE",
+    "name": "(SDESIP) SWADESHI LAGHUBITTA BITTIYA SANSTHA LIMITED - PROMOTER SHARE",
+    "activeStatus": "D"
+  },
+  {
+    "id": 545,
+    "symbol": "SLBBL",
+    "securityName": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+    "name": "(SLBBL) Swarojgar Laghu Bitta Bikas Bank Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 721,
+    "symbol": "SLBBLP",
+    "securityName": "Swarojgar Laghu Bitta Bikas Bank Ltd. Promoter Share",
+    "name": "(SLBBLP) Swarojgar Laghu Bitta Bikas Bank Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 409,
+    "symbol": "SMF",
+    "securityName": "Swastik Merchant Finance Co. Ltd.",
+    "name": "(SMF) Swastik Merchant Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 249,
+    "symbol": "SYFL",
+    "securityName": "Synergy Finance Ltd.",
+    "name": "(SYFL) Synergy Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 440,
+    "symbol": "BFLPO",
+    "securityName": "Butwal Finance Limited Promoter Share",
+    "name": "(BFLPO) Butwal Finance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 624,
+    "symbol": "SYFLPO",
+    "securityName": "Synergy Finance Ltd. Promoter Share",
+    "name": "(SYFLPO) Synergy Finance Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2759,
+    "symbol": "SPDL",
+    "securityName": "Synergy Power Development Ltd.",
+    "name": "(SPDL) Synergy Power Development Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 148,
+    "symbol": "TRH",
+    "securityName": "Taragaon Regency Hotel Limited",
+    "name": "(TRH) Taragaon Regency Hotel Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 608,
+    "symbol": "TRHPR",
+    "securityName": "Taragaon Regency Hotels Ltd. Preference Share",
+    "name": "(TRHPR) Taragaon Regency Hotels Ltd. Preference Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 442,
+    "symbol": "TNBL",
+    "securityName": "Tinau Development Bank Limited",
+    "name": "(TNBL) Tinau Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 580,
+    "symbol": "TNBLPO",
+    "securityName": "Tinau Development Bank Ltd. Promoter",
+    "name": "(TNBLPO) Tinau Development Bank Ltd. Promoter",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2855,
+    "symbol": "TMDBL",
+    "securityName": "Tinau Mission Development Bank Limited",
+    "name": "(TMDBL) Tinau Mission Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2856,
+    "symbol": "TMDBLP",
+    "securityName": "Tinau Mission Development Bank Limited Promoter Share",
+    "name": "(TMDBLP) Tinau Mission Development Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 503,
+    "symbol": "TDBL",
+    "securityName": "Tourism Development Bank Limited",
+    "name": "(TDBL) Tourism Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 688,
+    "symbol": "TDBLPO",
+    "securityName": "Tourism Development Bank Ltd. Prmoter Share",
+    "name": "(TDBLPO) Tourism Development Bank Ltd. Prmoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 465,
+    "symbol": "TBBLP",
+    "securityName": "Triveni Bikas Bank Ltd Promoter Share",
+    "name": "(TBBLP) Triveni Bikas Bank Ltd Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 337,
+    "symbol": "TBBL",
+    "securityName": "Triveni Bikas Bank Limited",
+    "name": "(TBBL) Triveni Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 405,
+    "symbol": "UBBL",
+    "securityName": "Udhyam Bikas Bank Limited",
+    "name": "(UBBL) Udhyam Bikas Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 219,
+    "symbol": "UNL",
+    "securityName": "Unilever Nepal Limited",
+    "name": "(UNL) Unilever Nepal Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 208,
+    "symbol": "UFCL",
+    "securityName": "Union Finance Co. Ltd.",
+    "name": "(UFCL) Union Finance Co. Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 476,
+    "symbol": "UFCLPO",
+    "securityName": "Union Finance Co. Ltd. Promoter Share",
+    "name": "(UFCLPO) Union Finance Co. Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2831,
+    "symbol": "UNHPL",
+    "securityName": "Union Hydropower Limited",
+    "name": "(UNHPL) Union Hydropower Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 413,
+    "symbol": "UFIL",
+    "securityName": "Unique Finance Ltd.",
+    "name": "(UFIL) Unique Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 603,
+    "symbol": "UFILPO",
+    "securityName": "Unique Finance Ltd. Promoter Share",
+    "name": "(UFILPO) Unique Finance Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 242,
+    "symbol": "UFL",
+    "securityName": "United Finance Ltd.",
+    "name": "(UFL) United Finance Ltd.",
+    "activeStatus": "S"
+  },
+  {
+    "id": 350,
+    "symbol": "UFLPO",
+    "securityName": "United Finance Company Limited Promoter Share",
+    "name": "(UFLPO) United Finance Company Limited Promoter Share",
+    "activeStatus": "S"
+  },
+  {
+    "id": 2914,
+    "symbol": "UMRH",
+    "securityName": "United IDI Mardi RB Hydropower Limited.",
+    "name": "(UMRH) United IDI Mardi RB Hydropower Limited.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 180,
+    "symbol": "UIC",
+    "securityName": "United Insurance Co. (Nepal) Ltd.",
+    "name": "(UIC) United Insurance Co. (Nepal) Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 726,
+    "symbol": "UICPO",
+    "securityName": "United Insurance Co. (Nepal) Ltd. Promoter Share",
+    "name": "(UICPO) United Insurance Co. (Nepal) Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2760,
+    "symbol": "UMHL",
+    "securityName": "United Modi Hydropower Ltd.",
+    "name": "(UMHL) United Modi Hydropower Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 381,
+    "symbol": "UFLKPO",
+    "securityName": "Universal Finance Limited Promoter Share",
+    "name": "(UFLKPO) Universal Finance Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 223,
+    "symbol": "UFLK",
+    "securityName": "Universal Finance Ltd.",
+    "name": "(UFLK) Universal Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 2810,
+    "symbol": "UPCL",
+    "securityName": "UNIVERSAL POWER COMPANY LTD",
+    "name": "(UPCL) UNIVERSAL POWER COMPANY LTD",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2774,
+    "symbol": "USLB",
+    "securityName": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+    "name": "(USLB) Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2775,
+    "symbol": "USLBP",
+    "securityName": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "name": "(USLBP) Unnati Sahakarya Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 2792,
+    "symbol": "UPPER",
+    "securityName": "Upper Tamakoshi Hydropower Ltd",
+    "name": "(UPPER) Upper Tamakoshi Hydropower Ltd",
+    "activeStatus": "A"
+  },
+  {
+    "id": 444,
+    "symbol": "VFL",
+    "securityName": "Valley Finance Limited",
+    "name": "(VFL) Valley Finance Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 687,
+    "symbol": "VLBS",
+    "securityName": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+    "name": "(VLBS) Vijaya laghubitta Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 716,
+    "symbol": "VLBSPO",
+    "securityName": "Vijaya laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(VLBSPO) Vijaya laghubitta Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 445,
+    "symbol": "WDBL",
+    "securityName": "Western Development Bank Limited",
+    "name": "(WDBL) Western Development Bank Limited",
+    "activeStatus": "D"
+  },
+  {
+    "id": 633,
+    "symbol": "WDBLPO",
+    "securityName": "Western Development Bank Limited Promoter Share",
+    "name": "(WDBLPO) Western Development Bank Limited Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 706,
+    "symbol": "WOMI",
+    "securityName": "Womi Microfinance Bittiya Sanstha Ltd.",
+    "name": "(WOMI) Womi Microfinance Bittiya Sanstha Ltd.",
+    "activeStatus": "A"
+  },
+  {
+    "id": 720,
+    "symbol": "WOMIPO",
+    "securityName": "Womi Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "name": "(WOMIPO) Womi Microfinance Bittiya Sanstha Ltd. Promoter Share",
+    "activeStatus": "A"
+  },
+  {
+    "id": 146,
+    "symbol": "YHL",
+    "securityName": "Yak And Yeti Hotel Limited",
+    "name": "(YHL) Yak And Yeti Hotel Limited",
+    "activeStatus": "S"
+  },
+  {
+    "id": 218,
+    "symbol": "YFL",
+    "securityName": "Yeti Finance Ltd.",
+    "name": "(YFL) Yeti Finance Ltd.",
+    "activeStatus": "D"
+  },
+  {
+    "id": 302,
+    "symbol": "YFLPO",
+    "securityName": "Yeti Finance Ltd. Promoter Share",
+    "name": "(YFLPO) Yeti Finance Ltd. Promoter Share",
+    "activeStatus": "D"
+  },
+  {
+    "id": 408,
+    "symbol": "ZFL",
+    "securityName": "Zenith Finance Limited",
+    "name": "(ZFL) Zenith Finance Limited",
+    "activeStatus": "D"
+  }
+]
